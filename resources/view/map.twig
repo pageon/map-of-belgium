@@ -5,6 +5,8 @@
     <script>
         Overlay.prototype = new google.maps.OverlayView();
 
+        var churches = {{ churches|raw }};
+        var debugMap = false;
         var overlay;
         var srcImage = '/belgium.svg';
         var boundariesOfBelgium = {
@@ -23,7 +25,7 @@
         var bounds = new google.maps.LatLngBounds(swBound, neBound);
         var center = new google.maps.LatLng(50.5, 4.5);
         var mapOptions = {
-            zoom: 8,
+            zoom: 9,
             center: center,
             mapTypeId: google.maps.MapTypeId.hybrid,
             backgroundColor: '#FFF',
@@ -95,10 +97,20 @@
                 });
             }
 
-            addMarker(51.368397, 3.366143);
-            addMarker(49.508816, 5.610255);
-            addMarker(boundariesOfBelgium.ne.lat, boundariesOfBelgium.ne.lng);
-            addMarker(boundariesOfBelgium.sw.lat, boundariesOfBelgium.sw.lng);
+            if (debugMap) {
+                addMarker(51.368397, 3.366143);
+                addMarker(49.508816, 5.610255);
+                addMarker(boundariesOfBelgium.ne.lat, boundariesOfBelgium.ne.lng);
+                addMarker(boundariesOfBelgium.sw.lat, boundariesOfBelgium.sw.lng);
+            }
+
+            for (let church of churches) {
+                if (!church || !church.lat || !church.lng) {
+                    continue;
+                }
+
+                addMarker(church.lat, church.lng);
+            }
 
             overlay = new Overlay(bounds, srcImage, map);
         }

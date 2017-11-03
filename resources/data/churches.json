@@ -1,0 +1,5830 @@
+[
+{
+    "name": "Parole de Vie",
+    "street": "Rue Robert Scott, 14",
+    "city": "Brussel-ukkel",
+    "postalCode": "1180",
+    "lat": 50.8003169,
+    "lng": 4.3393069
+},
+{
+    "name": "Evangelische Kerk Aalst",
+    "street": "R.-k. Sint-Jozefskerk, Seringenlaan 7",
+    "city": "Denderleeuw",
+    "postalCode": "9470",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Volle Evangelie Gemeenschap De Bron",
+    "street": "Sint-Jobstraat 60",
+    "city": "Aalst",
+    "postalCode": "9300",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Volle Evangelie Gemeenschap De Bron",
+    "street": "Sint-Jobstraat 60",
+    "city": "Aalst",
+    "postalCode": "9300",
+    "lat": 50.9338151,
+    "lng": 4.0350146
+},
+{
+    "name": "Evangelische Kerk Aarschot",
+    "street": "Kapel Bergvijver, Tieltsebaan 72",
+    "city": "Aarschot",
+    "postalCode": "3200",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Nieuw Leven Christen Gemeente",
+    "street": "Wissenstraat 22",
+    "city": "Aarschot",
+    "postalCode": "3200",
+    "lat": 50.9895499,
+    "lng": 4.8306495
+},
+{
+    "name": "Evangeliecentrum",
+    "street": "Daalstraat 71",
+    "city": "Affligem",
+    "postalCode": "1790",
+    "lat": 50.8925554,
+    "lng": 4.0968632
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de l'Industrie, 42",
+    "city": "Amay",
+    "postalCode": "4540",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de la Station, 8",
+    "city": "Andenne",
+    "postalCode": "5300",
+    "lat": 50.49790549999999,
+    "lng": 5.093065999999999
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Place de la R\u00e9sistance, 19",
+    "city": "Erquelinnes",
+    "postalCode": "6560",
+    "lat": 50.3277685,
+    "lng": 4.0701601
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Fran\u00e7ois Ennot, 91",
+    "city": "Ans",
+    "postalCode": "4432",
+    "lat": 50.6709332,
+    "lng": 5.5186613
+},
+{
+    "name": "Antwerp International Protestant Church",
+    "street": "Veltwijcklaan 180",
+    "city": "Antwerpen",
+    "postalCode": "2180",
+    "lat": 51.280001,
+    "lng": 4.4301522
+},
+{
+    "name": "Eglise Evang\u00e9lique de Plein R\u00e9veil",
+    "street": "School Het Keerpunt, Prins Leopoldstraat 51",
+    "city": "Antwerpen",
+    "postalCode": "2140",
+    "lat": 51.2124026,
+    "lng": 4.4388629
+},
+{
+    "name": "Deutschsprachige evangelische Gemeinde in der Provinz Antwerpen (DEGPA)",
+    "street": "Kapel van het T.P.C., Groenenborgerlaan 149",
+    "city": "Antwerpen",
+    "postalCode": "2020",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Biserica Cre\u0219tin\u0103 Rom\u00e2n\u0103 Elim",
+    "street": "Sint-Bernardsesteenweg 770",
+    "city": "Antwerpen",
+    "postalCode": "2660",
+    "lat": 51.179135,
+    "lng": 4.369459099999999
+},
+{
+    "name": "Eglise Corps de Christ",
+    "street": "Klapdorp 68",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": 51.2249391,
+    "lng": 4.406245
+},
+{
+    "name": "Fraternit\u00e9 \u00e9vang\u00e9lique de Pentec\u00f4te en Afrique et en Belgique - Paroisse d'Anvers",
+    "street": "Tweemontstraat 407",
+    "city": "Antwerpen",
+    "postalCode": "2100",
+    "lat": 51.2318402,
+    "lng": 4.443225
+},
+{
+    "name": "\u00c9glise internationale Source de B\u00e9n\u00e9diction",
+    "street": "Place de la Gare, 1",
+    "city": "Brussel-berchem-sainte-agathe",
+    "postalCode": "1082",
+    "lat": 50.8727564,
+    "lng": 4.2898889
+},
+{
+    "name": "Iglesia Cristiana de Amberes",
+    "street": "Vliegenstraat 39-41",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2256057,
+    "lng": 4.421395599999999
+},
+{
+    "name": "L'Arche de l'Eternel",
+    "street": "Lange Beeldekensstraat 35",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.22140899999999,
+    "lng": 4.423356500000001
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Lange Leemstraat 383",
+    "city": "Antwerpen",
+    "postalCode": "2018",
+    "lat": 51.2039621,
+    "lng": 4.425686499999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Bexstraat 13",
+    "city": "Antwerpen",
+    "postalCode": "2018",
+    "lat": 51.2095941,
+    "lng": 4.41306
+},
+{
+    "name": "Evangelische Christengemeente Berchem",
+    "street": "Sint-Lambertusstraat 38",
+    "city": "Antwerpen",
+    "postalCode": "2600",
+    "lat": 51.19878749999999,
+    "lng": 4.4201302
+},
+{
+    "name": "Adventkerk",
+    "street": "Lange Lozanastraat 36",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": 51.2055,
+    "lng": 4.4035168
+},
+{
+    "name": "Christelijke Gereformeerde Kerk - Evangelisch Centrum",
+    "street": "Boterlaarbaan 19-21",
+    "city": "Antwerpen",
+    "postalCode": "2100",
+    "lat": 51.2100494,
+    "lng": 4.4606042
+},
+{
+    "name": "Gereformeerde Gemeente - Christelijk Centrum De Bron",
+    "street": "Jaak De Boeckstraat 21-23",
+    "city": "Antwerpen",
+    "postalCode": "2170",
+    "lat": 51.2453342,
+    "lng": 4.4451465
+},
+{
+    "name": "Leger des Heils",
+    "street": "Aalmoezenierstraat 54",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": 51.2140615,
+    "lng": 4.4004827
+},
+{
+    "name": "Evangelische Kerk Antwerpen",
+    "street": "Karel Rogierstraat 8",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": 51.2102739,
+    "lng": 4.396601299999999
+},
+{
+    "name": "International Baptist Church (IBC)",
+    "street": "Onderwijsstraat 28",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.22527969999999,
+    "lng": 4.4343545
+},
+{
+    "name": "Wereldwijde Kerk van God",
+    "street": "Zaal 't Spieke, Hanegraefstraat 5",
+    "city": "Antwerpen-linkeroever",
+    "postalCode": "2050",
+    "lat": 51.2185475,
+    "lng": 4.3808832
+},
+{
+    "name": "Evangelisch-Lutherse Kerk",
+    "street": "Tabakvest 59",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Antwerp Christian Fellowship",
+    "street": "Lange Lozanastraat 36",
+    "city": "Antwerpen",
+    "postalCode": "2018",
+    "lat": 51.2055,
+    "lng": 4.4035168
+},
+{
+    "name": "Antwerp Truth Church",
+    "street": "Lange Beeldekensstraat 24",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2212634,
+    "lng": 4.4224964
+},
+{
+    "name": "De Wijngaard Christengemeenschap",
+    "street": "Duinstraat 84",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.222375,
+    "lng": 4.4304058
+},
+{
+    "name": "Endtime Outreach International Ministry",
+    "street": "Duinstraat 84",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.222375,
+    "lng": 4.4304058
+},
+{
+    "name": "Evangelische Kerk Philadelphia",
+    "street": "Sint-Bernardsesteenweg 505",
+    "city": "Antwerpen",
+    "postalCode": "2660",
+    "lat": 51.1789017,
+    "lng": 4.3697325
+},
+{
+    "name": "Light of the World Ministry International - House of Glory",
+    "street": "Zaal 't Capucientje, Capucienenlaan 99",
+    "city": "Aalst",
+    "postalCode": "9300",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Centro Cristiano Pentecostal Vida Nueva",
+    "street": "Rue Gheude, 54 (salle \u00e0 droite)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "The Redeemed Christian Church of God - New Life Assembly",
+    "street": "Statiestraat 149",
+    "city": "Antwerpen",
+    "postalCode": "2600",
+    "lat": 51.1992764,
+    "lng": 4.4293462
+},
+{
+    "name": "Universele Kerk van Gods Rijk",
+    "street": "Carnotstraat 15",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2189262,
+    "lng": 4.4224282
+},
+{
+    "name": "Christusgemeente",
+    "street": "Bexstraat 13",
+    "city": "Antwerpen",
+    "postalCode": "2018",
+    "lat": 51.2095941,
+    "lng": 4.41306
+},
+{
+    "name": "De Brabantse Olijfberg",
+    "street": "Lange Winkelstraat 5",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": 51.2233286,
+    "lng": 4.4118572
+},
+{
+    "name": "Protestantse kerk De Wijngaard",
+    "street": "Sanderusstraat 77",
+    "city": "Antwerpen",
+    "postalCode": "2018",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Protestante Luth\u00e9rienne Belge de la Confession d'Augsbourg - Eglise Protestante Luth\u00e9rienne du Pays d'Arlon",
+    "street": "Quartier Callemeyn, Avenue du Dixi\u00e8me de Ligne",
+    "city": "Arlon",
+    "postalCode": "6700",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue du Temple, 1",
+    "city": "Arlon",
+    "postalCode": "6700",
+    "lat": 49.6928187,
+    "lng": 5.814307299999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue des Ecriniers, 6 A",
+    "city": "Aat",
+    "postalCode": "7800",
+    "lat": 50.6296645,
+    "lng": 3.7787581
+},
+{
+    "name": "Eglise Evang\u00e9lique Protestante",
+    "street": "Rue du Fort, 16",
+    "city": "Aat",
+    "postalCode": "7800",
+    "lat": 50.6329827,
+    "lng": 3.7700531
+},
+{
+    "name": "Eglise Protestante Baptiste Centre Martin Luther King",
+    "street": "Rue du Halage, 40",
+    "city": "Aywaille",
+    "postalCode": "4920",
+    "lat": 50.4816465,
+    "lng": 5.700787099999999
+},
+{
+    "name": "Evangelische Kerk Pni\u00ebl",
+    "street": "Kolfstraat 9",
+    "city": "Balen",
+    "postalCode": "2490",
+    "lat": 51.17528859999999,
+    "lng": 5.1388398
+},
+{
+    "name": "Christengemeente Kempen",
+    "street": "Rijkevorselseweg 42",
+    "city": "Beerse",
+    "postalCode": "2340",
+    "lat": 51.326445,
+    "lng": 4.8271628
+},
+{
+    "name": "Korean Mission Church",
+    "street": "Alsembergsesteenweg 1131",
+    "city": "Beersel",
+    "postalCode": "1650",
+    "lat": 50.7382425,
+    "lng": 4.2810109
+},
+{
+    "name": "Evangelische Kerk De Graankorrel",
+    "street": "Leemstraat 89",
+    "city": "Beringen",
+    "postalCode": "3582",
+    "lat": 51.081028,
+    "lng": 5.3184922
+},
+{
+    "name": "Evangelische Kerk Bilzen",
+    "street": "Spurkerweg 25",
+    "city": "Bilzen",
+    "postalCode": "3740",
+    "lat": 50.8772688,
+    "lng": 5.511405
+},
+{
+    "name": "Assembl\u00e9e de Dieu",
+    "street": "Chauss\u00e9e Brunehault, 281",
+    "city": "Binche",
+    "postalCode": "7134",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Protestante Evang\u00e9lique de Binche",
+    "street": "Maison Communale de Waudrez, Place de l'Europe 7",
+    "city": "Binche",
+    "postalCode": "7131",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de la Station, 54",
+    "city": "Blegny",
+    "postalCode": "4670",
+    "lat": 50.67620170000001,
+    "lng": 5.7237621
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Onze Lieve Vrouweplein 2",
+    "city": "Boechout",
+    "postalCode": "2530",
+    "lat": 51.1608944,
+    "lng": 4.4906217
+},
+{
+    "name": "Christelijk Centrum",
+    "street": "Beukenlaan 54",
+    "city": "Boom",
+    "postalCode": "2850",
+    "lat": 51.0999072,
+    "lng": 4.3727376
+},
+{
+    "name": "Evangelische kerk Klein-Brabant",
+    "street": "Kardinaal Cardijnplein 8",
+    "city": "Bornem",
+    "postalCode": "2880",
+    "lat": 51.0995092,
+    "lng": 4.2350295
+},
+{
+    "name": "Eglise protestante unie de Belgique (Boussu-Bois)",
+    "street": "Rue Alfred Dendal, 86",
+    "city": "Boussu",
+    "postalCode": "7300",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de la Chapelle, 75",
+    "city": "Boussu",
+    "postalCode": "7301",
+    "lat": 50.4293114,
+    "lng": 3.8306687
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Place Sainte-Anne, 6",
+    "city": "Braine-l'alleud",
+    "postalCode": "1420",
+    "lat": 50.68349509999999,
+    "lng": 4.374860099999999
+},
+{
+    "name": "Eglise R\u00e9form\u00e9e de l'Alliance",
+    "street": "Centre Pluraliste, Avenue G\u00e9n\u00e9ral Ruquoy, 54",
+    "city": "Braine-l'alleud",
+    "postalCode": "1420",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Rue Vall\u00e9e Bailly, 62",
+    "city": "S-gravenbrakel",
+    "postalCode": "1420",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Protestante Evang\u00e9lique",
+    "street": "Rue Louis Gheude, 12",
+    "city": "Kasteelbrakel",
+    "postalCode": "1440",
+    "lat": 50.69171919999999,
+    "lng": 4.317981899999999
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de Mons, 30",
+    "city": "Soignies",
+    "postalCode": "7090",
+    "lat": 50.6066194,
+    "lng": 4.133075499999999
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Kleine turnzaal van G.O. \u201cDe Rijdtmeersen\u201d, ingang langs poort Wielendaalstraat",
+    "city": "Brakel",
+    "postalCode": "9660",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise missionnaire Assembl\u00e9e de Dieu",
+    "street": "Shopping Center, Bredabaan 486, winkel n\u00b0 18",
+    "city": "Antwerpen",
+    "postalCode": "2170",
+    "lat": 51.2439279,
+    "lng": 4.4437123
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Lage Kaart 324",
+    "city": "Brasschaat",
+    "postalCode": "2930",
+    "lat": 51.30256079999999,
+    "lng": 4.4827749
+},
+{
+    "name": "De Olijftak",
+    "street": "Leopoldslei 35",
+    "city": "Brasschaat",
+    "postalCode": "2930",
+    "lat": 51.2900996,
+    "lng": 4.486877799999999
+},
+{
+    "name": "Adventkerk",
+    "street": "Freren Fonteinstraat 9",
+    "city": "Brugge",
+    "postalCode": "8000",
+    "lat": 51.207664,
+    "lng": 3.2305023
+},
+{
+    "name": "Pinkstergemeente De Kruispoort",
+    "street": "Dampoortstraat 168",
+    "city": "Brugge",
+    "postalCode": "8310",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Protestantse kerk Brugge - 't Keerske",
+    "street": "Sint-Pieterskapel, Keersstraat 1",
+    "city": "Brugge",
+    "postalCode": "8000",
+    "lat": 51.2096873,
+    "lng": 3.2259155
+},
+{
+    "name": "Vrije Evangelische Gemeente",
+    "street": "Naaldenstraat 18",
+    "city": "Brugge",
+    "postalCode": "8000",
+    "lat": 51.2104645,
+    "lng": 3.2221436
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Temple, 21",
+    "city": "Brunehaut",
+    "postalCode": "7623",
+    "lat": 50.505881,
+    "lng": 3.3938892
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Place du Nouveau March\u00e9 aux Grains, 33",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8505928,
+    "lng": 4.344909299999999
+},
+{
+    "name": "Eglise Protestante Evang\u00e9lique du Heysel",
+    "street": "Rue du Sansonnet, 8",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": 50.890838,
+    "lng": 4.3397185
+},
+{
+    "name": "Centre Evang\u00e9lique Pain de Vie",
+    "street": "Chauss\u00e9e d'Anvers, 324-326",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.86886089999999,
+    "lng": 4.3591475
+},
+{
+    "name": "Communaut\u00e9 Chr\u00e9tienne de Jette",
+    "street": "Chauss\u00e9e de Jette, 448",
+    "city": "Brussel-jette",
+    "postalCode": "1090",
+    "lat": 50.8686035,
+    "lng": 4.3285873
+},
+{
+    "name": "Communaut\u00e9 Chr\u00e9tienne du Catalpa",
+    "street": "Berkendallaan 195",
+    "city": "Vilvorde",
+    "postalCode": "1800",
+    "lat": 50.90143759999999,
+    "lng": 4.3639732
+},
+{
+    "name": "Communaut\u00e9 des Fr\u00e8res chr\u00e9tiens de Belgique",
+    "street": "Rue Gustave Schildknecht, 19",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": 50.8731406,
+    "lng": 4.348033399999999
+},
+{
+    "name": "Eglise de Dieu de la Proph\u00e9tie",
+    "street": "Rue de la Roue, 7",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8418805,
+    "lng": 4.3454098
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique arm\u00e9nienne",
+    "street": "Rue du Heysel, 20",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": 50.8912349,
+    "lng": 4.3424776
+},
+{
+    "name": "Eglise protestante",
+    "street": "Rue Steyls, 120",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": 50.8788569,
+    "lng": 4.3396856
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique internationale Arche de No\u00e9",
+    "street": "rue Heyvaert 187",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.84472179999999,
+    "lng": 4.329155399999999
+},
+{
+    "name": "Praise Center - Eglise philippine",
+    "street": "Statiestraat 69",
+    "city": "Antwerpen",
+    "postalCode": "2600",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "\u00c9glise Protestante de Bruxelles-Mus\u00e9e - Chapelle Royale",
+    "street": "Place du Mus\u00e9e, 2 \/ Coudenberg, 5",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8426463,
+    "lng": 4.360507
+},
+{
+    "name": "Eglise Protestante de Bruxelles-Botanique (EPBB)",
+    "street": "Boulevard Bischoffsheim, 40",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique de Bruxelles-Est",
+    "street": "Rue Ernest Allard, 11-13 (2\u00e8me \u00e9tage)",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue du Moniteur, 7",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.848932,
+    "lng": 4.3642919
+},
+{
+    "name": "Vlaamse Adventkerk",
+    "street": "Ernest Allardstraat, 11",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise adventiste francophone",
+    "street": "Rue Ernest Allard, 11",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8402762,
+    "lng": 4.3546212
+},
+{
+    "name": "Eglise adventiste lusophone",
+    "street": "Boulevard Jamar, 37",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise adventiste roumaine",
+    "street": "Rue Ernest Allard, 11",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8402762,
+    "lng": 4.3546212
+},
+{
+    "name": "International Adventist Church",
+    "street": "Rue Ernest Allard, 11",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise arabe",
+    "street": "Rue L\u00e9opold Ier, 117",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise vietnamienne",
+    "street": "Rue du Moniteur, 7",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.848932,
+    "lng": 4.3642919
+},
+{
+    "name": "Assembl\u00e9e les Messagers",
+    "street": "Chauss\u00e9e de Haecht, 296",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Biserica Cre\u0219tin\u0103 Rom\u00e2n\u0103 Elim",
+    "street": "Rue St\u00e9phanie, 107",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Les Ambassadeurs",
+    "street": "Rue Gheude, 54",
+    "city": "Brussel",
+    "postalCode": "1070",
+    "lat": 50.8416519,
+    "lng": 4.3354454
+},
+{
+    "name": "Eglise pentec\u00f4tiste Source du Salut",
+    "street": "Boulevard de l'Abattoir, 26",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8469353,
+    "lng": 4.3386678
+},
+{
+    "name": "Living Stone World Worship Centre International",
+    "street": "Chauss\u00e9e de Louvain, 1064",
+    "city": "Brussel-evere",
+    "postalCode": "1140",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Minist\u00e8re de la R\u00e9surrection",
+    "street": "Boulevard Louis Mettewie 46, Bte 84",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Centre Baptiste Oasis",
+    "street": "Place Joseph Beno\u00eet Willems, 8",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Protestantse Kerk Brussel",
+    "street": "Nieuwe Graanmarkt 8",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8512982,
+    "lng": 4.3444344
+},
+{
+    "name": "Eglise Protestante Lib\u00e9rale",
+    "street": "Rue Charles Quint, 117",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Arche de la gloire de l'Eternel",
+    "street": "Rue de Birmingham, 222",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8416211,
+    "lng": 4.3181426
+},
+{
+    "name": "Minist\u00e8re M\u00e9dicinal et Gu\u00e9rison - La Parole de Vie",
+    "street": "Hof ter Lo 7 bus 18",
+    "city": "Antwerpen",
+    "postalCode": "2140",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Centro Evangel\u00edstico Internacional",
+    "street": "Rue Charles Parent\u00e9, 3 A",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.833787,
+    "lng": 4.3292472
+},
+{
+    "name": "The Lighthouse Centre",
+    "street": "Rue Van Lint, 26",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8393679,
+    "lng": 4.3273132
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique de la Vaillance",
+    "street": "Rue d'Aumale, 11",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8363167,
+    "lng": 4.3069843
+},
+{
+    "name": "Eglise Evang\u00e9lique Internationale La Providence",
+    "street": "Rue Gheude, 54 (salle principale)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique Le Phare",
+    "street": "Chauss\u00e9e d'Alsemberg 207",
+    "city": "Braine-l'alleud",
+    "postalCode": "1420",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Praise Center",
+    "street": "Rue Gheude, 54",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Communaut\u00e9 Protestante \u00c9vang\u00e9lique Anderlecht",
+    "street": "Boulevard Maurice Herbette, 24",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8436325,
+    "lng": 4.310601699999999
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique de Pentec\u00f4te Arche de l'Eternel",
+    "street": "rue Heyvaert, 187",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.84472179999999,
+    "lng": 4.329155399999999
+},
+{
+    "name": "Eglise protestante unie de Belgique - Eglise francophone",
+    "street": "Rue Walcourt, 103",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.82476639999999,
+    "lng": 4.3024691
+},
+{
+    "name": "Eglise Vie et Lumi\u00e8re",
+    "street": "Route de Lennik, 300",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Comunidade Crist\u00e3 Brasileira (CCBr)",
+    "street": "Rue des Deux Gares, 91",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8321005,
+    "lng": 4.3232322
+},
+{
+    "name": "Fraternit\u00e9 \u00e9vang\u00e9lique de Pentec\u00f4te en Afrique et en Belgique",
+    "street": "Rue Brialmont, 7",
+    "city": "Brussel-sint-joost-ten-node",
+    "postalCode": "1210",
+    "lat": 50.8536857,
+    "lng": 4.367121300000001
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique La Bonne Nouvelle du Salut",
+    "street": "Rue Birmingham, 222",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique Tabernacle de J\u00e9sus-Christ",
+    "street": "Rue Brogniez, 21",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Mission Internationale du Plein Evangile",
+    "street": "Rue de l'Instruction, 112",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8374457,
+    "lng": 4.330074000000001
+},
+{
+    "name": "Comunidade Renascer em Cristo (Rena\u00eetre en Christ)",
+    "street": "Rue Gheude, 21-25 (1er \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.84252610000001,
+    "lng": 4.3342534
+},
+{
+    "name": "Zion Temple Celebration Centre Bruxelles (Minist\u00e8re de la Parole Authentique)",
+    "street": "Rue des Ateliers 19",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.857744,
+    "lng": 4.3437274
+},
+{
+    "name": "Bethlehemkerk (Nederlandstalige kerk)",
+    "street": "Walcourtstraat 103",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.82476639999999,
+    "lng": 4.3024691
+},
+{
+    "name": "Iglesia Adventista del 7\u00b0 D\u00eda Hispana de Bruselas (Bizet)",
+    "street": "Rue Walcourt, 103",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.82476639999999,
+    "lng": 4.3024691
+},
+{
+    "name": "Eglise Universelle de Dieu - Le monde \u00e0 venir",
+    "street": "Salle Sainte-Anne, Chauss\u00e9e de Tervueren, 131",
+    "city": "Brussel-oudergem",
+    "postalCode": "1160",
+    "lat": 50.816117,
+    "lng": 4.433352999999999
+},
+{
+    "name": "Assembleia de Deus",
+    "street": "Boulevard du Souverain, 220",
+    "city": "Brussel-oudergem",
+    "postalCode": "1160",
+    "lat": 50.8133388,
+    "lng": 4.4257205
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique",
+    "street": "Chauss\u00e9e de Wavre, 880",
+    "city": "Brussel-etterbeek",
+    "postalCode": "1040",
+    "lat": 50.8279136,
+    "lng": 4.3945823
+},
+{
+    "name": "Eglise Evang\u00e9lique Arabe de Belgique \/ Arabische Evangelische Kerk van Belgi\u00eb",
+    "street": "Lange Molenstraat 58",
+    "city": "Vilvorde",
+    "postalCode": "1800",
+    "lat": 50.927604,
+    "lng": 4.423617999999999
+},
+{
+    "name": "Eglise Baptiste de la Gr\u00e2ce",
+    "street": "Chauss\u00e9e de Haecht, 982",
+    "city": "Brussel-evere",
+    "postalCode": "1140",
+    "lat": 50.8726067,
+    "lng": 4.3987396
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique d'Evere",
+    "street": "Rue Godfroid Kurth, 65",
+    "city": "Brussel-evere",
+    "postalCode": "1140",
+    "lat": 50.8690505,
+    "lng": 4.398593099999999
+},
+{
+    "name": "Schekina Cath\u00e9drale",
+    "street": "Rue du Bateau, 12A",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.8452006,
+    "lng": 4.3276625
+},
+{
+    "name": "Vineyard Brussels (ex: International Christian Fellowship)",
+    "street": "Boulevard du Souverain, 220",
+    "city": "Brussel-oudergem",
+    "postalCode": "1160",
+    "lat": 50.8133388,
+    "lng": 4.4257205
+},
+{
+    "name": "Centre Evang\u00e9lique",
+    "street": "Avenue Van Volxem, 194",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": 50.8192332,
+    "lng": 4.3252378
+},
+{
+    "name": "Centre de R\u00e9veil Fleuves d'Eau Vive",
+    "street": "Rue du Feu, 55 A",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": null,
+    "lng": null
+},
+,
+{
+    "name": "Iglesia Adventista del 7\u00b0 D\u00eda Hispana de Bruselas (Bethel)",
+    "street": "Chauss\u00e9e d'Anvers, 324-326",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.86886089999999,
+    "lng": 4.3591475
+},
+{
+    "name": "Eglise Baptiste de Bruxelles",
+    "street": "Rue Jef Devos, 26",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": 50.82318069999999,
+    "lng": 4.328249899999999
+},
+{
+    "name": "Communaut\u00e9 chr\u00e9tienne de Ganshoren Le C\u00e9page",
+    "street": "Rue Jean de Greef, 10-12",
+    "city": "Brussel-ganshoren",
+    "postalCode": "1083",
+    "lat": 50.8735168,
+    "lng": 4.3149244
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Rue Tenbosch, 122 A",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.8205465,
+    "lng": 4.360709
+},
+{
+    "name": "Cristo para as Na\u00e7\u00f5es",
+    "street": "Rue de la Cuve, 16 A",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.8272899,
+    "lng": 4.3754719
+},
+{
+    "name": "Centro de Adora\u00e7\u00e3o",
+    "street": "Rue Van Lint, 37",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.83965,
+    "lng": 4.3274176
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Champ de Mars, 5",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.8386435,
+    "lng": 4.3642511
+},
+{
+    "name": "Saint Andrew's Church of Scotland",
+    "street": "Chauss\u00e9e de Vleurgat, 181",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.8219679,
+    "lng": 4.3664927
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue Picard, 174-176-178",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise La Louange",
+    "street": "Rue G\u00e9n\u00e9ral Eenens 81",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": 50.868817,
+    "lng": 4.378165399999999
+},
+{
+    "name": "Eglise protestante baptiste La Fraternit\u00e9",
+    "street": "Rue Ulens, 55",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.8620419,
+    "lng": 4.344256
+},
+{
+    "name": "Centro Evang\u00e9lico Hispanoam\u00e9rico Emanuel",
+    "street": "Rue Conraets, 11",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9e de Dieu - Minist\u00e9rio Restaura\u00e7\u00e3o",
+    "street": "Rue Berthelot, 106-108",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": 50.8252199,
+    "lng": 4.330647799999999
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique Eben-Ezer",
+    "street": "Rue Joseph Claes, 41",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": 50.8329064,
+    "lng": 4.3375243
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de M\u00e9rode, 210 B",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": 50.8307174,
+    "lng": 4.3340949
+},
+{
+    "name": "Assembl\u00e9e du Plein Evangile",
+    "street": "Rue Scailquin, 36",
+    "city": "Brussel-sint-joost-ten-node",
+    "postalCode": "1210",
+    "lat": 50.8498381,
+    "lng": 4.3710247
+},
+{
+    "name": "Philadelphia Church",
+    "street": "Rue Emile Wauters, 110",
+    "city": "Brussel",
+    "postalCode": "1020",
+    "lat": 50.8891284,
+    "lng": 4.3427181
+},
+{
+    "name": "Association \u00e9vang\u00e9lique baptiste - Eglise protestante baptiste de Schaerbeek",
+    "street": "Boulevard de la Cambre 46",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8157768,
+    "lng": 4.373946999999999
+},
+{
+    "name": "Christengemeente De Smalle Weg",
+    "street": "Laconiastraat 8",
+    "city": "Brugge",
+    "postalCode": "8000",
+    "lat": 51.229597,
+    "lng": 3.212793
+},
+{
+    "name": "Destiny Christian Center",
+    "street": "Protestant Church, Place du Nouveau March\u00e9 aux Grains, 8",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.851318,
+    "lng": 4.3444674
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Chauss\u00e9e de Haecht, 296",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": 50.8646108,
+    "lng": 4.3738895
+},
+{
+    "name": "Eglise M\u00e9thodiste Libre",
+    "street": "Avenue de Roodebeek, 151",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Mission mondiale Evangile du Christ",
+    "street": "Rue de Bonne 59 (2\u00b0 \u00e9tage)",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.84719399999999,
+    "lng": 4.3240224
+},
+{
+    "name": "Evangelische Kerk Bethel",
+    "street": "Haachtsesteenweg 403",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": 50.8676793,
+    "lng": 4.3778085
+},
+{
+    "name": "Eglise apostolique \u00e9vang\u00e9lique",
+    "street": "Chauss\u00e9e d'Alsemberg, 990",
+    "city": "Brussel-ukkel",
+    "postalCode": "1180",
+    "lat": 50.792101,
+    "lng": 4.3330543
+},
+{
+    "name": "Eglise M\u00e9thodiste Libre",
+    "street": "Chauss\u00e9e d'Alsemberg, 877",
+    "city": "Brussel-ukkel",
+    "postalCode": "1180",
+    "lat": 50.79967910000001,
+    "lng": 4.336251799999999
+},
+{
+    "name": "Eglise Evang\u00e9lique d'Uccle",
+    "street": "Chauss\u00e9e d'Alsemberg, 877",
+    "city": "Brussel-ukkel",
+    "postalCode": "1180",
+    "lat": 50.79967910000001,
+    "lng": 4.336251799999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Avenue des Cailles, 131",
+    "city": "Brussel-watermaal-bosvoorde",
+    "postalCode": "1170",
+    "lat": 50.808535,
+    "lng": 4.414440799999999
+},
+{
+    "name": "International Protestant Church",
+    "street": "Eglise Notre Dame du Blankedelle, Avenue des H\u00e9ros, 40",
+    "city": "Brussel-oudergem",
+    "postalCode": "1160",
+    "lat": 50.806496,
+    "lng": 4.4376587
+},
+{
+    "name": "Eglise Evang\u00e9lique Arm\u00e9nienne",
+    "street": "Avenue des Iles d'Or, 15",
+    "city": "Brussel-sint-lambrechts-woluwe",
+    "postalCode": "1200",
+    "lat": 50.8479326,
+    "lng": 4.4324717
+},
+{
+    "name": "\u00c9glise Protestante \u00c9vang\u00e9lique de Bruxelles-Woluwe",
+    "street": "Avenue A.J. Slegers, 96",
+    "city": "Brussel-sint-lambrechts-woluwe",
+    "postalCode": "1200",
+    "lat": 50.8410926,
+    "lng": 4.4264948
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Avenue des Iles d'Or, 15",
+    "city": "Brussel-sint-lambrechts-woluwe",
+    "postalCode": "1200",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Communaut\u00e9 Chr\u00e9tienne de Stockel",
+    "street": "Avenue Edmond Parmentier, 250",
+    "city": "Brussel-sint-pieters-woluwe",
+    "postalCode": "1150",
+    "lat": 50.8330034,
+    "lng": 4.4464235
+},
+{
+    "name": "Deutschsprachige evangelische Gemeinde",
+    "street": "Avenue Salom\u00e9, 7",
+    "city": "Brussel-sint-pieters-woluwe",
+    "postalCode": "1150",
+    "lat": 50.83163769999999,
+    "lng": 4.4554871
+},
+{
+    "name": "Communaut\u00e9 Chr\u00e9tienne de Bruxelles-Est",
+    "street": "Fraternit\u00e9s du Bon Pasteur, Rue au Bois, 365 B",
+    "city": "Brussel-sint-pieters-woluwe",
+    "postalCode": "1150",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "All Lutheran Church of Brussels",
+    "street": "Avenue Salom\u00e9, 7",
+    "city": "Brussel-sint-pieters-woluwe",
+    "postalCode": "1150",
+    "lat": 50.83163769999999,
+    "lng": 4.4554871
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue \u00c9mile Vandervelde, 59",
+    "city": "Chapelle-lez-herlaimont",
+    "postalCode": "7160",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Rue Louis Biernaux, 111-113",
+    "city": "Charleroi",
+    "postalCode": "6040",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9e de Dieu",
+    "street": "Avenue de l'Europe, 44",
+    "city": "Charleroi",
+    "postalCode": "6000",
+    "lat": 50.4126029,
+    "lng": 4.4411242
+},
+{
+    "name": "Assembl\u00e9e de Dieu - Mission Evang\u00e9lique La Bonne Nouvelle",
+    "street": "Avenue de l'Europe, 44",
+    "city": "Charleroi",
+    "postalCode": "6000",
+    "lat": 50.4126029,
+    "lng": 4.4411242
+},
+{
+    "name": "Centre \u00e9vang\u00e9lique Vie Nouvelle",
+    "street": "Rue du Vigneron, 142",
+    "city": "Charleroi",
+    "postalCode": "6043",
+    "lat": 50.4557675,
+    "lng": 4.4767538
+},
+{
+    "name": "Assembl\u00e9e \u00e9vang\u00e9lique de R\u00e9veil",
+    "street": "Rue Sainte-Agn\u00e8s, 1",
+    "city": "Charleroi",
+    "postalCode": "6060",
+    "lat": 50.4284,
+    "lng": 4.4672656
+},
+{
+    "name": "Centre \u00e9vang\u00e9lique",
+    "street": "Rue des Nutons, 256",
+    "city": "Charleroi",
+    "postalCode": "6060",
+    "lat": 50.4368035,
+    "lng": 4.480896299999999
+},
+{
+    "name": "La Voix de l'Evangile",
+    "street": "Rue L\u00e9on Dubois, 299",
+    "city": "Charleroi",
+    "postalCode": "6030",
+    "lat": 50.4251393,
+    "lng": 4.4121334
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique de R\u00e9veil \u00ab Foi et Lumi\u00e8re \u00bb",
+    "street": "Rue Napol\u00e9on Lejong, 46",
+    "city": "Charleroi",
+    "postalCode": "6032",
+    "lat": 50.3945222,
+    "lng": 4.4117565
+},
+{
+    "name": "Dynamic Faith Ministry International",
+    "street": "Hogeweg",
+    "city": "Antwerpen",
+    "postalCode": "2140",
+    "lat": 51.2132044,
+    "lng": 4.4430322
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Rue de Bayemont, 35",
+    "city": "Charleroi",
+    "postalCode": "6040",
+    "lat": 50.4330487,
+    "lng": 4.4128875
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Rue S\u00e9raphin Antoine, 89",
+    "city": "Charleroi",
+    "postalCode": "6032",
+    "lat": 50.378765,
+    "lng": 4.417031000000001
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de Jumet, 328",
+    "city": "Charleroi",
+    "postalCode": "6030",
+    "lat": 50.4268564,
+    "lng": 4.4145274
+},
+{
+    "name": "Deutschsprachige evangelische Gemeinde",
+    "street": "Rue Charbonnel, 121",
+    "city": "Charleroi",
+    "postalCode": "6043",
+    "lat": 50.4551807,
+    "lng": 4.4725459
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Boulevard Audent, 20",
+    "city": "Charleroi",
+    "postalCode": "6000",
+    "lat": 50.4096225,
+    "lng": 4.445003199999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Marabout, 71",
+    "city": "Charleroi",
+    "postalCode": "6060",
+    "lat": 50.4304557,
+    "lng": 4.4896556
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Fran\u00e7ois Dewiest, 42",
+    "city": "Charleroi",
+    "postalCode": "6040",
+    "lat": 50.4381317,
+    "lng": 4.4177206
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de Beaumont, 206",
+    "city": "Charleroi",
+    "postalCode": "6030",
+    "lat": 50.4003769,
+    "lng": 4.3947123
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Temple, 38",
+    "city": "Charleroi",
+    "postalCode": "6001",
+    "lat": 50.39329129999999,
+    "lng": 4.4428477
+},
+{
+    "name": "Eglise r\u00e9form\u00e9e de Ransart",
+    "street": "Rue Charbonnel, 121",
+    "city": "Charleroi",
+    "postalCode": "6043",
+    "lat": 50.4551807,
+    "lng": 4.4725459
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique (Charleroi-Nord)",
+    "street": "Rue Emile Vandervelde, 11",
+    "city": "Charleroi",
+    "postalCode": "6000",
+    "lat": 50.423498,
+    "lng": 4.4572601
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue Emile Vandervelde, 13",
+    "city": "Charleroi",
+    "postalCode": "6010",
+    "lat": 50.3913508,
+    "lng": 4.469583099999999
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue des Cayats, 190",
+    "city": "Charleroi",
+    "postalCode": "6001",
+    "lat": 50.39273590000001,
+    "lng": 4.446193600000001
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Rue \u00c9mile Vandervelde, 16",
+    "city": "Charleroi",
+    "postalCode": "6040",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Temple Evang\u00e9lique Baptiste",
+    "street": "Rue de la Tombe, 110",
+    "city": "Charleroi",
+    "postalCode": "6032",
+    "lat": 50.3906168,
+    "lng": 4.417291899999999
+},
+{
+    "name": "Diffusion de l'Evangile",
+    "street": "Rue de Mons, 106",
+    "city": "Charleroi",
+    "postalCode": "6031",
+    "lat": 50.4087752,
+    "lng": 4.3858147
+},
+{
+    "name": "\u00c9glise \u00c9vangelique de Reveil",
+    "street": "Rue Joseph Wauters, 15-17",
+    "city": "Charleroi",
+    "postalCode": "6020",
+    "lat": 50.4144675,
+    "lng": 4.431551
+},
+,
+{
+    "name": "Eglise apostolique",
+    "street": "Rue de la Station, 7",
+    "city": "Chievres",
+    "postalCode": "7950",
+    "lat": 50.58501099999999,
+    "lng": 3.8029278
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Ch\u00e2teau, 8",
+    "city": "Chimay",
+    "postalCode": "6460",
+    "lat": 50.04899990000001,
+    "lng": 4.314279099999999
+},
+{
+    "name": "Centre \u00e9vang\u00e9lique",
+    "street": "Rue du Centre, 46",
+    "city": "Ciney",
+    "postalCode": "5590",
+    "lat": 50.29639599999999,
+    "lng": 5.1014984
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Rue des Fr\u00e8res Defuisseaux, 41",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": 50.40599210000001,
+    "lng": 3.8528879
+},
+{
+    "name": "Jours-Chr\u00e9tiens",
+    "street": "Rue de la Louise, 15",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": 50.40228640000001,
+    "lng": 3.8378632
+},
+{
+    "name": "Eglise Protestante Evang\u00e9lique",
+    "street": "Rue des Brasseries, 3-5",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": 50.4133676,
+    "lng": 3.864684699999999
+},
+{
+    "name": "Eglise apostolique",
+    "street": "Rue du Pont d'Arcole, 62",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Jean-Baptiste Cl\u00e9ment, 2",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique (Grand-Wasmes)",
+    "street": "Rue Saint-Pierre, 31",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": 50.41384499999999,
+    "lng": 3.8457882
+},
+{
+    "name": "Eglise protestante unie de Belgique (Petit-Wasmes)",
+    "street": "Rue Pasteur L'Host, 1",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Pav\u00e9 de Warquignies, 152",
+    "city": "Colfontaine",
+    "postalCode": "7340",
+    "lat": 50.3994817,
+    "lng": 3.8205515
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de Wervicq, 111",
+    "city": "Comines-warneton",
+    "postalCode": "7780",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Rue G\u00e9n\u00e9ral de Gaulle, 145",
+    "city": "Courcelles",
+    "postalCode": "6180",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9e Chr\u00e9tienne",
+    "street": "Rue de Forri\u00e8re, 321",
+    "city": "Courcelles",
+    "postalCode": "6180",
+    "lat": 50.44394639999999,
+    "lng": 4.3578515
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Temple, 62",
+    "city": "Courcelles",
+    "postalCode": "6180",
+    "lat": 50.4560043,
+    "lng": 4.3789204
+},
+{
+    "name": "Baptistengemeente Brugge (Brugge Baptist Church)",
+    "street": "Bruggesteenweg 3",
+    "city": "Damme",
+    "postalCode": "8430",
+    "lat": 51.2040322,
+    "lng": 3.310308
+},
+{
+    "name": "Adventkerk",
+    "street": "Brouwerstraat 100",
+    "city": "De panne",
+    "postalCode": "8660",
+    "lat": 51.096988,
+    "lng": 2.5953911
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Brouwersstraat 100",
+    "city": "De panne",
+    "postalCode": "8660",
+    "lat": 51.096988,
+    "lng": 2.5953911
+},
+{
+    "name": "Evangelische Kerk Eben-Haezer",
+    "street": "Ambachtstraat 35",
+    "city": "De panne",
+    "postalCode": "8660",
+    "lat": 51.0965934,
+    "lng": 2.593706
+},
+{
+    "name": "Belgische Evangelische Zending",
+    "street": "O.C.M.W.-Dienstencentrum Elfdorpen, Ghesqui\u00e8restraat 15",
+    "city": "Deinze",
+    "postalCode": "9800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Koningin Astridstraat 25",
+    "city": "Denderleeuw",
+    "postalCode": "9470",
+    "lat": 50.8817739,
+    "lng": 4.0759752
+},
+{
+    "name": "Adventkerk",
+    "street": "Krekelhoek 9",
+    "city": "Dendermonde",
+    "postalCode": "9200",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Lindanusstraat 2",
+    "city": "Dendermonde",
+    "postalCode": "9200",
+    "lat": 51.0291677,
+    "lng": 4.1018833
+},
+{
+    "name": "Vrije Evangelische Gemeente",
+    "street": "Kempenstraat 70",
+    "city": "Diepenbeek",
+    "postalCode": "3590",
+    "lat": 50.9219081,
+    "lng": 5.4242266
+},
+{
+    "name": "Christengemeente De Ark",
+    "street": "Diocesane Middenschool, Mari\u00ebndaalstraat 44",
+    "city": "Diest",
+    "postalCode": "3290",
+    "lat": 50.98143779999999,
+    "lng": 5.0553456
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Vredestraat 9 A",
+    "city": "Diksmuide",
+    "postalCode": "8600",
+    "lat": 51.0323289,
+    "lng": 2.8663367
+},
+{
+    "name": "Evangelische Christenen Dilbeek en omstreken",
+    "street": "Ontmoetingscentrum Westrand, lokaal 304, Kamerijklaan 1",
+    "city": "Dilbeek",
+    "postalCode": "1700",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Levend Woord Maasland",
+    "street": "Vlessersweg 54",
+    "city": "Dilsen-stokkem",
+    "postalCode": "3650",
+    "lat": 51.0325608,
+    "lng": 5.7207265
+},
+{
+    "name": "Centre Evang\u00e9lique",
+    "street": "Rue de Philippeville, 151",
+    "city": "Dinant",
+    "postalCode": "5500",
+    "lat": 50.2554945,
+    "lng": 4.9047149
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Eglise Saint-Georges, Rue Gustave Poncelet, 20",
+    "city": "Dinant",
+    "postalCode": "5500",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Temple de Dour et des Hauts Pays",
+    "street": "Rue du Roi Albert, 56",
+    "city": "Dour",
+    "postalCode": "7370",
+    "lat": 50.3980263,
+    "lng": 3.7758313
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue de Boussu, 53",
+    "city": "Dour",
+    "postalCode": "7370",
+    "lat": 50.4037373,
+    "lng": 3.7828546
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Rue de la Fontaine, 46 B",
+    "city": "Dour",
+    "postalCode": "7370",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de la Haie, 33",
+    "city": "Ecaussinnes",
+    "postalCode": "7190",
+    "lat": 50.56903699999999,
+    "lng": 4.1701198
+},
+{
+    "name": "Evangelische kerk De Ark",
+    "street": "Zeelaan 22",
+    "city": "Eeklo",
+    "postalCode": "9900",
+    "lat": 51.2006763,
+    "lng": 3.5226395
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Route de Cortil Wodon, 76",
+    "city": "Eghezee",
+    "postalCode": "5310",
+    "lat": 50.5647191,
+    "lng": 4.9205292
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Chapelle de la Dodane",
+    "city": "Enghien",
+    "postalCode": "7850",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Freie evangelische Gemeinde",
+    "street": "Malmedyer Stra\u00dfe 25",
+    "city": "Eupen",
+    "postalCode": "4700",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Friedenskirche",
+    "street": "Kl\u00f6tzerbahn",
+    "city": "Eupen",
+    "postalCode": "4700",
+    "lat": 50.6305993,
+    "lng": 6.033975
+},
+{
+    "name": "Eglise protestante La Bonne Nouvelle",
+    "street": "Rue des Marais, 41",
+    "city": "Farciennes",
+    "postalCode": "6240",
+    "lat": 50.4309866,
+    "lng": 4.552819800000001
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Carlo H\u00e9nin, 98",
+    "city": "Farciennes",
+    "postalCode": "6240",
+    "lat": 50.4278704,
+    "lng": 4.5444388
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de la Fontaine, 256",
+    "city": "Flemalle",
+    "postalCode": "4400",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9e Protestante Baptiste",
+    "street": "Rue Ars\u00e8ne Falla, 6",
+    "city": "Fleron",
+    "postalCode": "4621",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Centre \u00e9vang\u00e9lique Vie et Paix",
+    "street": "Rue Joseph Lef\u00e8bvre, 11",
+    "city": "Fleurus",
+    "postalCode": "6220",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de la Station, 62",
+    "city": "Fleurus",
+    "postalCode": "6220",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de Soulme, 100",
+    "city": "Florennes",
+    "postalCode": "5620",
+    "lat": 50.2322818,
+    "lng": 4.7423212
+},
+{
+    "name": "Eglise Evang\u00e9lique de Flavion",
+    "street": "Se renseigner chez Richard Libert, Rue Bourgmestre Octave Targez, 1",
+    "city": "Philippeville",
+    "postalCode": "5600",
+    "lat": null,
+    "lng": null
+},
+,
+,
+,
+{
+    "name": "Igreja Presbiteriana Renovada",
+    "street": "Rue Van Lint, 47 (1er \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8396808,
+    "lng": 4.326972899999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Joseph Dufrane, 15",
+    "city": "Frameries",
+    "postalCode": "7080",
+    "lat": 50.4072943,
+    "lng": 3.8917363
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue de la R\u00e9gence, 1",
+    "city": "Frameries",
+    "postalCode": "7080",
+    "lat": 50.4042932,
+    "lng": 3.8748898
+},
+{
+    "name": "Eglise Protestante Evang\u00e9lique Christ Vie Nouvelle",
+    "street": "Salle La Fraternit\u00e9, Terre \u00e0 Cailloux, 38",
+    "city": "Frameries",
+    "postalCode": "7080",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique de R\u00e9veil",
+    "street": "Rue des Ecluses, 38",
+    "city": "Frameries",
+    "postalCode": "7080",
+    "lat": 50.4092335,
+    "lng": 3.9016924
+},
+{
+    "name": "Christelijk Centrum Levend Water",
+    "street": "Holven 19",
+    "city": "Geel",
+    "postalCode": "2440",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique de Pentec\u00f4te La Pierre Vivante",
+    "street": "Cin\u00e9 Royal, Rue du Moulin, 55 B",
+    "city": "Gembloux",
+    "postalCode": "5030",
+    "lat": 50.5634082,
+    "lng": 4.693582
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Paul Tournay, 23",
+    "city": "Gembloux",
+    "postalCode": "5030",
+    "lat": 50.5580069,
+    "lng": 4.693412299999999
+},
+{
+    "name": "Assembl\u00e9e chr\u00e9tienne \u00e9vang\u00e9lique",
+    "street": "Rue de Charleroi, 17 A",
+    "city": "Genappe",
+    "postalCode": "1470",
+    "lat": 50.6099872,
+    "lng": 4.4507506
+},
+{
+    "name": "Christengemeente Zwartberg",
+    "street": "Arbeidsstraat 56",
+    "city": "Genk",
+    "postalCode": "3600",
+    "lat": 51.0088786,
+    "lng": 5.5029094
+},
+{
+    "name": "Pinkstergemeente Elim",
+    "street": "Flikbergstraat 79",
+    "city": "Genk",
+    "postalCode": "3600",
+    "lat": 50.9849691,
+    "lng": 5.5337535
+},
+{
+    "name": "Protestantse Johanneskerk",
+    "street": "Laatgoedstraat 60",
+    "city": "Genk",
+    "postalCode": "3600",
+    "lat": 50.9860654,
+    "lng": 5.5150491
+},
+{
+    "name": "Evangelische Gemeente Paulus",
+    "street": "Evence Copp\u00e9elaan 31",
+    "city": "Genk",
+    "postalCode": "3600",
+    "lat": 50.97394449999999,
+    "lng": 5.4975203
+},
+{
+    "name": "Eglise Mont Horeb",
+    "street": "Ledebergplein 21",
+    "city": "Gand",
+    "postalCode": "9050",
+    "lat": 51.036948,
+    "lng": 3.7421345
+},
+{
+    "name": "Evangelische Kerk Bourgoyen",
+    "street": "Brugsesteenweg 325",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Adventkerk",
+    "street": "Kortrijksepoortstraat 158",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.0447278,
+    "lng": 3.7219094
+},
+{
+    "name": "Christelijke Gereformeerde Kerk - Evangelisch Centrum Rehob\u00f4th",
+    "street": "Bij Sint-Jozef 5",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.0632973,
+    "lng": 3.711145
+},
+{
+    "name": "Gereformeerd Kerkcentrum Kerk aan de Leie",
+    "street": "Gordunakaai 28-30",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.0429673,
+    "lng": 3.7075527
+},
+{
+    "name": "Evangelische Gemeente De Rots",
+    "street": "Vierweegsestraat 54",
+    "city": "Gand",
+    "postalCode": "9032",
+    "lat": 51.0901974,
+    "lng": 3.7181961
+},
+{
+    "name": "Christelijke Gemeenschap Elim",
+    "street": "Acaciastraat 2-4",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Vineyard Ganda (voorheen: Goed Nieuws Christengemeenschap)",
+    "street": "OCMW-Cultuurkapel Sint-Vincent, Sint-Antoniuskaai 10-12",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.05977559999999,
+    "lng": 3.7172745
+},
+{
+    "name": "Strong Tower Ministries",
+    "street": "Harelbekestraat 64",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.026219,
+    "lng": 3.730663
+},
+{
+    "name": "Tabernacle de Victoire",
+    "street": "Harelbekestraat 64",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.026219,
+    "lng": 3.730663
+},
+{
+    "name": "VPKB (Brabantdam)",
+    "street": "Sint-Kristoffelstraat 1",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.0497318,
+    "lng": 3.7324436
+},
+{
+    "name": "VPKB (Rabot)",
+    "street": "Begijnhoflaan 31",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.0596268,
+    "lng": 3.7118896
+},
+{
+    "name": "Evangelische kerk De Bron",
+    "street": "Nederzwijnaarde 23",
+    "city": "Gand",
+    "postalCode": "9052",
+    "lat": 51.0064165,
+    "lng": 3.7211912
+},
+{
+    "name": "Vrije Evangelische Gemeente De Burg",
+    "street": "Burgstraat 13",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Adamstraat 26-28",
+    "city": "Grammont",
+    "postalCode": "9500",
+    "lat": 50.7709575,
+    "lng": 3.8737576
+},
+{
+    "name": "Evangelisch Centrum De Levensbron",
+    "street": "Boelarestraat 52",
+    "city": "Grammont",
+    "postalCode": "9500",
+    "lat": 50.7769299,
+    "lng": 3.882579
+},
+{
+    "name": "Evangelische Gemeenschap Gistel",
+    "street": "Koolaardstraat 20 B",
+    "city": "Gistel",
+    "postalCode": "8470",
+    "lat": 51.1556536,
+    "lng": 2.9585649
+},
+{
+    "name": "Eglise Protestante Baptiste Bethel",
+    "street": "Rue Simon Paque, 23-25",
+    "city": "Grace-hollogne",
+    "postalCode": "4460",
+    "lat": 50.6465062,
+    "lng": 5.5081292
+},
+{
+    "name": "Centre li\u00e9geois d'Evang\u00e9lisation",
+    "street": "Rue Gr\u00e9goire Chapuis, 43",
+    "city": "Grace-hollogne",
+    "postalCode": "4460",
+    "lat": 50.6378565,
+    "lng": 5.5002984
+},
+{
+    "name": "Christengemeente Emmanuel",
+    "street": "Markt 10",
+    "city": "Haacht",
+    "postalCode": "3150",
+    "lat": 50.9773063,
+    "lng": 4.6379291
+},
+{
+    "name": "Evangelische Gemeente Halle en Omstreken",
+    "street": "Rodenemweg 165",
+    "city": "Hal",
+    "postalCode": "1500",
+    "lat": 50.7225344,
+    "lng": 4.2356997
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Roerdompstraat 6",
+    "city": "Ham",
+    "postalCode": "3945",
+    "lat": 51.1048792,
+    "lng": 5.148574099999999
+},
+{
+    "name": "Nouvelle Cit\u00e9 Charismatique Ministries",
+    "street": "Square de l'Aviation, 15 (2\u00e8me \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8407181,
+    "lng": 4.3391362
+},
+{
+    "name": "Christelijk Centrum Hamont",
+    "street": "Transistorstraat 1",
+    "city": "Hamont-achel",
+    "postalCode": "3930",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Veldstraat 60",
+    "city": "Hasselt",
+    "postalCode": "3500",
+    "lat": 50.9286483,
+    "lng": 5.3116902
+},
+{
+    "name": "Adventkerk",
+    "street": "Genkersteenweg 26",
+    "city": "Hasselt",
+    "postalCode": "3500",
+    "lat": 50.9437845,
+    "lng": 5.3462543
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Kuringersteenweg 81",
+    "city": "Hasselt",
+    "postalCode": "3500",
+    "lat": 50.9338188,
+    "lng": 5.3249739
+},
+{
+    "name": "Evangelische Gemeente De Zaaier",
+    "street": "Runkstersteenweg 303 - hoek Fazantenstraat",
+    "city": "Hasselt",
+    "postalCode": "3500",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Sint-Bernardsesteenweg 30",
+    "city": "Hemiksem",
+    "postalCode": "2620",
+    "lat": 51.13398369999999,
+    "lng": 4.3352888
+},
+{
+    "name": "Eglise protestante baptiste Le Saron",
+    "street": "Rue Ulens 55",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Evangelisch Centrum Levende Hoop",
+    "street": "Markgravenstraat 82",
+    "city": "Herentals",
+    "postalCode": "2200",
+    "lat": 51.177782,
+    "lng": 4.822957100000001
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Temple, 15",
+    "city": "Herstal",
+    "postalCode": "4040",
+    "lat": 50.6676356,
+    "lng": 5.6372263
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique belge",
+    "street": "Rue Nadet, 19",
+    "city": "Herstal",
+    "postalCode": "4040",
+    "lat": 50.667412,
+    "lng": 5.6259979
+},
+{
+    "name": "Belgische Evangelische Zending",
+    "street": "Karel Boomstraat 44",
+    "city": "Hoogstraten",
+    "postalCode": "2320",
+    "lat": 51.4032756,
+    "lng": 4.7562826
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Korsele 39",
+    "city": "Horebeke",
+    "postalCode": "9667",
+    "lat": 50.8565645,
+    "lng": 3.7000813
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Guldensporenlaan 24 B",
+    "city": "Houthalen-helchteren",
+    "postalCode": "3530",
+    "lat": 51.0358317,
+    "lng": 5.3702824
+},
+{
+    "name": "Vrije Evangelische Gemeente Immanuel",
+    "street": "Seringenstraat 4-6",
+    "city": "Houthalen-helchteren",
+    "postalCode": "3530",
+    "lat": 51.0209232,
+    "lng": 5.4843649
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de Statte, 9",
+    "city": "Huy",
+    "postalCode": "4500",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Avenue Albert 1er, 21",
+    "city": "Huy",
+    "postalCode": "4500",
+    "lat": 50.5240649,
+    "lng": 5.2357409
+},
+{
+    "name": "Vrije Evangelische Gemeente Marcus",
+    "street": "Schoolstraat 40 B",
+    "city": "Ichtegem",
+    "postalCode": "8480",
+    "lat": 51.0891738,
+    "lng": 3.0533439
+},
+{
+    "name": "Evangelische Kerk De Hoeksteen",
+    "street": "Potyzestraat 69",
+    "city": "Ypres",
+    "postalCode": "8900",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Adventkerk",
+    "street": "Beluikstraat 19",
+    "city": "Ypres",
+    "postalCode": "8900",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Christengemeente Peni\u00ebl",
+    "street": "Boezingsestraat 103",
+    "city": "Ypres",
+    "postalCode": "8906",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Christian Center Emmanuel",
+    "street": "Sint-Catharinastraat 1",
+    "city": "Ypres",
+    "postalCode": "8900",
+    "lat": 50.8474789,
+    "lng": 2.8881088
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Beluikstraat 19",
+    "city": "Ypres",
+    "postalCode": "8900",
+    "lat": 50.8515094,
+    "lng": 2.8789259
+},
+{
+    "name": "Eglise Internationale de Jodoigne",
+    "street": "Salle Porte ouverte, Rue Saint-M\u00e9dard, 54",
+    "city": "Jodoigne",
+    "postalCode": "1370",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Temple, 13",
+    "city": "Jurbise",
+    "postalCode": "7050",
+    "lat": 50.5105659,
+    "lng": 3.8552232
+},
+{
+    "name": "First Baptist Church",
+    "street": "Chemin du Prince, 284",
+    "city": "Jurbise",
+    "postalCode": "7050",
+    "lat": 50.5098814,
+    "lng": 3.9315511
+},
+{
+    "name": "Evangelische Gemeente Kalmthout",
+    "street": "p\/a Daniel Van de Velde, Putsesteenweg 70",
+    "city": "Kalmthout",
+    "postalCode": "2920",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Johanneskirche",
+    "street": "Hasardstrasse 8",
+    "city": "La calamine",
+    "postalCode": "4721",
+    "lat": 50.7130728,
+    "lng": 6.0131134
+},
+{
+    "name": "Protestantse gemeente De Hoeksteen",
+    "street": "Zoutelaan 84",
+    "city": "Knokke-heist",
+    "postalCode": "8300",
+    "lat": 51.34984069999999,
+    "lng": 3.2934335
+},
+{
+    "name": "Evangelische Gemeente Knokke-Heist",
+    "street": "CM-gebouw, Hermans-Lybaertstraat 39",
+    "city": "Knokke-heist",
+    "postalCode": "8301",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Vrije Evangelische Gemeente van Koekelare",
+    "street": "Bisschophoekstraat 31",
+    "city": "Koekelare",
+    "postalCode": "8680",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Cultureel Centrum Moza\u00efek, Kerkplein 14",
+    "city": "Kortessem",
+    "postalCode": "3720",
+    "lat": 50.8594253,
+    "lng": 5.3903621
+},
+{
+    "name": "Adventkerk",
+    "street": "Oud Gemeentehuis, Heulsekasteelstraat 1",
+    "city": "Courtrai",
+    "postalCode": "8501",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Christengemeente Ichthus",
+    "street": "Brugsesteenweg 259",
+    "city": "Courtrai",
+    "postalCode": "8500",
+    "lat": 50.8442415,
+    "lng": 3.2659207
+},
+{
+    "name": "Jezus Levend Water voor alle nati\u00ebn",
+    "street": "Sint-Denijsestraat 208 A",
+    "city": "Courtrai",
+    "postalCode": "8500",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Bloemistenstraat 2 A",
+    "city": "Courtrai",
+    "postalCode": "8500",
+    "lat": 50.8232662,
+    "lng": 3.2634053
+},
+{
+    "name": "Evangelische Kerk De Pottenbakker",
+    "street": "Meensestraat 83",
+    "city": "Courtrai",
+    "postalCode": "8500",
+    "lat": 50.8327067,
+    "lng": 3.2563911
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Kattestraat 27",
+    "city": "Kuurne",
+    "postalCode": "8520",
+    "lat": null,
+    "lng": null
+},
+,
+{
+    "name": "Presbyterian Church of Ghana",
+    "street": "Zandpoortvest 27",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.02436489999999,
+    "lng": 4.4878876
+},
+,
+,
+,
+,
+,
+,
+{
+    "name": "Gemeente van Christus",
+    "street": "Residentie Capricornus, Steenweg 243",
+    "city": "Lanaken",
+    "postalCode": "3620",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Evangelische Baptistengemeente De Bron",
+    "street": "Kerkstraat 19",
+    "city": "Landen",
+    "postalCode": "3400",
+    "lat": 50.7555886,
+    "lng": 5.0804762
+},
+{
+    "name": "Protestants-Evangelische kerk",
+    "street": "Hannuitsesteenweg 76",
+    "city": "Landen",
+    "postalCode": "3400",
+    "lat": 50.7447457,
+    "lng": 5.0809019
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Place de Ransbeck, 8",
+    "city": "Lasne",
+    "postalCode": "1380",
+    "lat": 50.7028228,
+    "lng": 4.4392037
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Chemin de Chi\u00e8vres, 37 B",
+    "city": "Lessines",
+    "postalCode": "7860",
+    "lat": 50.7070131,
+    "lng": 3.8335526
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Tiensesteenweg 388",
+    "city": "Louvain",
+    "postalCode": "3000",
+    "lat": 50.8666488,
+    "lng": 4.7428587
+},
+{
+    "name": "Gods Ambassade",
+    "street": "Bergstraat 156",
+    "city": "Louvain",
+    "postalCode": "3010",
+    "lat": 50.904083,
+    "lng": 4.7380176
+},
+{
+    "name": "International Church of Evangelicals Leuven (ICEL)",
+    "street": "Pauscollege, Hogeschoolplein 3",
+    "city": "Louvain",
+    "postalCode": "3000",
+    "lat": 50.8769652,
+    "lng": 4.7025897
+},
+{
+    "name": "Christ Centered Church",
+    "street": "Alma 3, Zaal De Koelisse",
+    "city": "Louvain",
+    "postalCode": "3001",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Christengemeente \"Focus on Christ\"",
+    "street": "Andreas Vesaliusstraat 2",
+    "city": "Louvain",
+    "postalCode": "3000",
+    "lat": 50.87478729999999,
+    "lng": 4.7071575
+},
+{
+    "name": "Igreja Pentecostal Deus \u00e9 Fiel",
+    "street": "Van Arteveldestraat 7",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Matadilaan 6",
+    "city": "Louvain",
+    "postalCode": "3001",
+    "lat": 50.866651,
+    "lng": 4.7078983
+},
+{
+    "name": "Evangelische Gemeente Leuven",
+    "street": "Sint-Jansbergsesteenweg 97",
+    "city": "Louvain",
+    "postalCode": "3001",
+    "lat": 50.8678942,
+    "lng": 4.6644779
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique belge",
+    "street": "Rue de la Cit\u00e9, 1A",
+    "city": "Libramont-chevigny",
+    "postalCode": "6800",
+    "lat": 49.9235938,
+    "lng": 5.377174
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Quai Bonaparte, 6",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": 50.6390373,
+    "lng": 5.5891212
+},
+{
+    "name": "Assembl\u00e9e de Dieu - Eglise Nouvel Impact",
+    "street": "Rue Saint-Hubert, 3",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6453536,
+    "lng": 5.5693316
+},
+{
+    "name": "Eglise Belgo-slave",
+    "street": "Rue Lambert-le-B\u00e8gue, 6-8",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.64141530000001,
+    "lng": 5.5646005
+},
+{
+    "name": "Eglise Chr\u00e9tienne Evang\u00e9lique de Li\u00e8ge",
+    "street": "Rue Louis Jamme, 51",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": 50.6383349,
+    "lng": 5.5859111
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique arm\u00e9nienne",
+    "street": "Eglise de Saint-Pierre et Paul, Rue Ernest Marneffe",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue Winston Churchill, 369",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6428613,
+    "lng": 5.613856
+},
+{
+    "name": "Deutschsprachige evangelische Gemeinde",
+    "street": "Quai Godefroid-Kurth, 1",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6456933,
+    "lng": 5.586401299999999
+},
+{
+    "name": "Eglise protestante unie de Belgique (Marcellis)",
+    "street": "Quai Marcellis, 22",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": 50.6342424,
+    "lng": 5.574808099999999
+},
+{
+    "name": "Eglise protestante unie de Belgique (Lambert-le-B\u00e8gue)",
+    "street": "Rue Lambert-le-B\u00e8gue, 6-8",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.64141530000001,
+    "lng": 5.5646005
+},
+{
+    "name": "Eglise protestante unie de Belgique (R\u00e9demption)",
+    "street": "Quai Godefroid-Kurth, 1",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": 50.6456933,
+    "lng": 5.586401299999999
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue des Croisiers, 12",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6391842,
+    "lng": 5.575568199999999
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Boulevard Fr\u00e8re Orban, 29",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6313928,
+    "lng": 5.5707374
+},
+{
+    "name": "Assembl\u00e9e Protestante Baptiste",
+    "street": "Rue d'Amercoeur, 43",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise baptiste italienne La Parole de la Gr\u00e2ce",
+    "street": "Rue Gr\u00e9try, 97",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": 50.634547,
+    "lng": 5.581678999999999
+},
+{
+    "name": "Eglise Protestante Baptiste de Li\u00e8ge Acad\u00e9mie",
+    "street": "Rue de l'Acad\u00e9mie, 51",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6468689,
+    "lng": 5.5664881
+},
+{
+    "name": "Eglise Protestante Baptiste de Glain",
+    "street": "Rue F\u00e9lix Vandersnoeck, 34",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6461397,
+    "lng": 5.530273800000001
+},
+{
+    "name": "Pinkstergemeente Jezus Leeft",
+    "street": "Leopoldplein 24",
+    "city": "Lierre",
+    "postalCode": "2500",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Evangelisch Centrum De Brug",
+    "street": "Kouter 30",
+    "city": "Lokeren",
+    "postalCode": "9160",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Christengemeente",
+    "street": "Meerstraat 36\/1",
+    "city": "Londerzeel",
+    "postalCode": "1840",
+    "lat": 51.0055187,
+    "lng": 4.3042959
+},
+{
+    "name": "Christengemeente",
+    "street": "Ringlaan 410",
+    "city": "Maasmechelen",
+    "postalCode": "3630",
+    "lat": 50.9736467,
+    "lng": 5.6721767
+},
+{
+    "name": "Heartbeat Church",
+    "street": "Bedrijfsgebouwen Stillemans - Jan Tieboutstraat 21",
+    "city": "Asse",
+    "postalCode": "1730",
+    "lat": 50.875271,
+    "lng": 4.2892708
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Karrewegel 47",
+    "city": "Maldegem",
+    "postalCode": "9990",
+    "lat": 51.2113932,
+    "lng": 3.43675
+},
+{
+    "name": "Eglise de Dieu",
+    "street": "Rue Monbijou 43 c",
+    "city": "Malmedy",
+    "postalCode": "4960",
+    "lat": 50.4222544,
+    "lng": 6.037999
+},
+{
+    "name": "Eglise Protestante Baptiste",
+    "street": "Rue de la Warchenne, 62",
+    "city": "Malmedy",
+    "postalCode": "4960",
+    "lat": 50.4250335,
+    "lng": 6.0251027
+},
+{
+    "name": "Vereinigte protestantische Kirche in Belgien",
+    "street": "Rue Abb\u00e9 P\u00e9ters, 42",
+    "city": "Malmedy",
+    "postalCode": "4960",
+    "lat": 50.4234897,
+    "lng": 6.031522499999999
+},
+{
+    "name": "Eglise Evang\u00e9lique Sentinelle",
+    "street": "Rue Th\u00e9ophile Massart, 19",
+    "city": "Manage",
+    "postalCode": "7170",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Communaut\u00e9 Chr\u00e9tienne de la Famenne",
+    "street": "Salle \u00ab Les \u00e9chos de la Wamme \u00bb, Rue F\u00e9lix Lef\u00e8vre, 7",
+    "city": "Marche-en-famenne",
+    "postalCode": "6900",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante baptiste",
+    "street": "Rue de l'Acad\u00e9mie, 51",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6468689,
+    "lng": 5.5664881
+},
+{
+    "name": "Adventkerk",
+    "street": "Wagonstraat 20",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.0221058,
+    "lng": 4.490357400000001
+},
+{
+    "name": "Christengemeenschap 't Lichtpunt",
+    "street": "Lakenmakersstraat 233",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "LEEF! Mechelen",
+    "street": "Stuivenbergbaan 137",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.0255783,
+    "lng": 4.4503582
+},
+{
+    "name": "VPKB (Mechelen-Noord)",
+    "street": "Keizerstraat 26-28",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.0288863,
+    "lng": 4.486620500000001
+},
+{
+    "name": "PKB (Mechelen-Zuid)",
+    "street": "Zandpoortvest 27",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.02436489999999,
+    "lng": 4.4878876
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Buurthuis Wijshagen, Dennenstraat 35",
+    "city": "Meeuwen-gruitrode",
+    "postalCode": "3670",
+    "lat": 51.1058205,
+    "lng": 5.5558456
+},
+{
+    "name": "Evangelische Kerk De Rank",
+    "street": "Vrouwstraat 12",
+    "city": "Geluwe",
+    "postalCode": "8940",
+    "lat": 50.8098785,
+    "lng": 3.0793402
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Stationsstraat 86",
+    "city": "Menin",
+    "postalCode": "8930",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Movimento Mission\u00e1rio Jesus a \u00danica Esperan\u00e7a (MMJUE)",
+    "street": "Statiestraat 158",
+    "city": "Antwerpen",
+    "postalCode": "2600",
+    "lat": 51.1998168,
+    "lng": 4.4305131
+},
+{
+    "name": "Nehemia Ministries - Levend Water",
+    "street": "De Vierhoekhoeve, Brielstraat 71",
+    "city": "Oosterzele",
+    "postalCode": "9860",
+    "lat": 50.9725216,
+    "lng": 3.8102496
+},
+{
+    "name": "Protestantse Baptistenkerk Bethel",
+    "street": "Dorpsplein 40",
+    "city": "Middelkerke",
+    "postalCode": "8434",
+    "lat": 51.1489723,
+    "lng": 2.7566341
+},
+{
+    "name": "Christelijk Centrum De Regenboog",
+    "street": "Parochiecentrum, Kapellestraat 90",
+    "city": "Mol",
+    "postalCode": "2400",
+    "lat": 51.197592,
+    "lng": 5.1271146
+},
+{
+    "name": "Deutschsprachige evangelische Gemeinde in der Provinz Antwerpen (DEGPA)",
+    "street": "Kapel van de Sint-Odradakerk, Lindeplein 2",
+    "city": "Mol",
+    "postalCode": "2400",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Centre Evang\u00e9lique Viens et Vois",
+    "street": "Rue David, 1",
+    "city": "Mons",
+    "postalCode": "7012",
+    "lat": 50.4475993,
+    "lng": 3.8930662
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique protestante Chr\u00e9tiens en Action",
+    "street": "Rue du Delta, 3",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Evang\u00e9lique Protestante",
+    "street": "Chemin de la Procession, 235",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4626417,
+    "lng": 3.9667711
+},
+{
+    "name": "Korean Mission Church",
+    "street": "Chapel Center S.H.A.P.E.",
+    "city": "Mons",
+    "postalCode": "7010",
+    "lat": 50.5061459,
+    "lng": 3.9724764
+},
+{
+    "name": "Communaut\u00e9 chr\u00e9tienne de Jemappes",
+    "street": "Rue des Veuves, 1",
+    "city": "Mons",
+    "postalCode": "7012",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue du Delta, 3",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4487659,
+    "lng": 3.9376003
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Cerisier, 2",
+    "city": "Mons",
+    "postalCode": "7033",
+    "lat": 50.4388425,
+    "lng": 3.915894299999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Temple, 8",
+    "city": "Mons",
+    "postalCode": "7011",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Avenue du Mar\u00e9chal Foch, 826",
+    "city": "Mons",
+    "postalCode": "7012",
+    "lat": 50.447804,
+    "lng": 3.8842631
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Boulevard Dolez, 17",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.45265759999999,
+    "lng": 3.9602348
+},
+{
+    "name": "Assembl\u00e9e chr\u00e9tienne \u00e9vang\u00e9lique",
+    "street": "Rue des Ecoliers",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4503019,
+    "lng": 3.9439816
+},
+{
+    "name": "Eglise Protestante Baptiste La Colombe",
+    "street": "Chauss\u00e9e du Roeulx, 34",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4542498,
+    "lng": 3.9679006
+},
+{
+    "name": "Centre Vie Nouvelle",
+    "street": "Quai des Otages, 1 (lieu dit : Pont-Canal)",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4538923,
+    "lng": 3.9255081
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Rue Emile Vandervelde, 30",
+    "city": "Montigny-le-tilleul",
+    "postalCode": "6110",
+    "lat": 50.382222,
+    "lng": 4.3827365
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Rue Ernest Solvay, 113",
+    "city": "Morlanwelz",
+    "postalCode": "7141",
+    "lat": 50.4501571,
+    "lng": 4.2573091
+},
+{
+    "name": "Christengemeente",
+    "street": "Hendrik Kuijpersstraat 60",
+    "city": "Mortsel",
+    "postalCode": "2640",
+    "lat": 51.177612,
+    "lng": 4.4385723
+},
+{
+    "name": "Volle Evangelie Gemeente",
+    "street": "Eggestraat 27",
+    "city": "Mortsel",
+    "postalCode": "2640",
+    "lat": 51.1725207,
+    "lng": 4.4494655
+},
+{
+    "name": "Zigeunerzending Leven en Licht",
+    "street": "Gasthuishoeven",
+    "city": "Mortsel",
+    "postalCode": "2640",
+    "lat": 51.18138769999999,
+    "lng": 4.4687962
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Avenue Jean Jaur\u00e8s, 126-128",
+    "city": "Mouscron",
+    "postalCode": "7700",
+    "lat": 50.7430833,
+    "lng": 3.1892008
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Rue de Menin, 48",
+    "city": "Mouscron",
+    "postalCode": "7700",
+    "lat": 50.746928,
+    "lng": 3.2146853
+},
+{
+    "name": "Eglise Protestante \u00e9vang\u00e9lique charismatique Centre Vie Chr\u00e9tienne",
+    "street": "Rue de Roubaix, 98",
+    "city": "Mouscron",
+    "postalCode": "7700",
+    "lat": 50.7372009,
+    "lng": 3.2076513
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Rue de Fernelmont, 52",
+    "city": "Namur",
+    "postalCode": "5020",
+    "lat": 50.4914122,
+    "lng": 4.8995161
+},
+{
+    "name": "Eglise Evang\u00e9lique Baptiste",
+    "street": "Rue de Dave, 26",
+    "city": "Namur",
+    "postalCode": "5100",
+    "lat": 50.45566909999999,
+    "lng": 4.8711398
+},
+{
+    "name": "emple Protestant Evang\u00e9lique du Namurois",
+    "street": "Rue Denis-Georges Bayar, 50",
+    "city": "Namur",
+    "postalCode": "5000",
+    "lat": 50.4715794,
+    "lng": 4.8608611
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue Marie-Henriette, 37",
+    "city": "Namur",
+    "postalCode": "5000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Boulevard d'Herbatte, 33",
+    "city": "Namur",
+    "postalCode": "5000",
+    "lat": 50.46996499999999,
+    "lng": 4.869678
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Rue Haut de Bomel, 1",
+    "city": "Namur",
+    "postalCode": "5003",
+    "lat": 50.4858955,
+    "lng": 4.8584014
+},
+{
+    "name": "Eglise Protestante Baptiste La Colombe",
+    "street": "Rue L\u00e9opold De Hulster, 67 A",
+    "city": "Namur",
+    "postalCode": "5002",
+    "lat": null,
+    "lng": null
+},
+,
+{
+    "name": "Christengemeente",
+    "street": "Rector De Ramstraat 14",
+    "city": "Nijlen",
+    "postalCode": "2560",
+    "lat": 51.1598437,
+    "lng": 4.6760766
+},
+{
+    "name": "Eglise Evang\u00e9lique Assembl\u00e9e de Dieu",
+    "street": "Rue de Namur, 176",
+    "city": "Nivelles",
+    "postalCode": "1400",
+    "lat": 50.59937859999999,
+    "lng": 4.3336149
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Boulevard des Archers, 12",
+    "city": "Nivelles",
+    "postalCode": "1400",
+    "lat": 50.5998299,
+    "lng": 4.3226531
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Boulevard des Archers, 63",
+    "city": "Nivelles",
+    "postalCode": "1400",
+    "lat": 50.60059,
+    "lng": 4.3247684
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Boulevard des Archers, 63",
+    "city": "Nivelles",
+    "postalCode": "1400",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Adventkerk",
+    "street": "Nijverheidsstraat 98",
+    "city": "Ostende",
+    "postalCode": "8400",
+    "lat": 51.2183445,
+    "lng": 2.906315
+},
+{
+    "name": "Evangelical Christian Fellowship",
+    "street": "Overvloedstraat 2",
+    "city": "Ostende",
+    "postalCode": "8400",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Pinkstergemeente De Bron",
+    "street": "Bronstraat 8",
+    "city": "Ostende",
+    "postalCode": "8400",
+    "lat": 51.2134856,
+    "lng": 2.9111415
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Velodroomstraat 26-28",
+    "city": "Ostende",
+    "postalCode": "8400",
+    "lat": 51.2243846,
+    "lng": 2.9060481
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Stuiverstraat 196",
+    "city": "Ostende",
+    "postalCode": "8400",
+    "lat": 51.2153084,
+    "lng": 2.9080071
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Leegstraat 208",
+    "city": "Oostrozebeke",
+    "postalCode": "8780",
+    "lat": 50.9164977,
+    "lng": 3.3098989
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Chapelle des Bruy\u00e8res, Avenue de la Palette, 11\/003",
+    "city": "Ottignies-louvain-la-neuve",
+    "postalCode": "1348",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue des Fusill\u00e9s, 37",
+    "city": "Ottignies-louvain-la-neuve",
+    "postalCode": "1340",
+    "lat": 50.67075149999999,
+    "lng": 4.5740595
+},
+{
+    "name": "Eglise Protestante Baptiste",
+    "street": "Rue des Sports, 2",
+    "city": "Ottignies-louvain-la-neuve",
+    "postalCode": "1348",
+    "lat": 50.6701434,
+    "lng": 4.6034818
+},
+{
+    "name": "Christelijke Gemeenschap Oudenaarde",
+    "street": "Blekerijstraat 15",
+    "city": "Audenarde",
+    "postalCode": "9700",
+    "lat": 50.8503501,
+    "lng": 3.6066196
+},
+{
+    "name": "Protestantse Gemeente 'W.O.T.O.'",
+    "street": "Kapel Zavelenborre, Frans Verbeekstraat 158 A",
+    "city": "Overijse",
+    "postalCode": "3090",
+    "lat": 50.7707134,
+    "lng": 4.5037045
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Cultureel Centrum Palethe, Jeugdlaan 2",
+    "city": "Overpelt",
+    "postalCode": "3900",
+    "lat": 51.2114363,
+    "lng": 5.427954199999999
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Cultureel Centrum 't Poorthuis, Zuidervest 2 A",
+    "city": "Poire",
+    "postalCode": "3990",
+    "lat": 51.1321613,
+    "lng": 5.4498652
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Achterstraat 108",
+    "city": "Poire",
+    "postalCode": "3990",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Protestante Baptiste",
+    "street": "Boulevard L\u00e9opold III, 90",
+    "city": "Peruwelz",
+    "postalCode": "7600",
+    "lat": 50.50424229999999,
+    "lng": 3.5961823
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique belge",
+    "street": "Rue de Neuville, 33",
+    "city": "Philippeville",
+    "postalCode": "6340",
+    "lat": 50.1914679,
+    "lng": 4.534083799999999
+},
+{
+    "name": "Temple Evang\u00e9lique",
+    "street": "Rue Objou, 10 A",
+    "city": "Pont-a-celles",
+    "postalCode": "6230",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Grote Markt 35",
+    "city": "Poperinge",
+    "postalCode": "8970",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Rue de Monsville, 47",
+    "city": "Quaregnon",
+    "postalCode": "7390",
+    "lat": 50.439619,
+    "lng": 3.866084399999999
+},
+{
+    "name": "Eglise Evang\u00e9lique de Pentec\u00f4te La Bonne Nouvelle",
+    "street": "Rue de Picquery, 110",
+    "city": "Quaregnon",
+    "postalCode": "7390",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Paul Pastur, 100",
+    "city": "Quaregnon",
+    "postalCode": "7390",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue de la Gare, 5",
+    "city": "Quievrain",
+    "postalCode": "7380",
+    "lat": 50.4081947,
+    "lng": 3.684298
+},
+{
+    "name": "Communaut\u00e9 chr\u00e9tienne l'Eau Vive",
+    "street": "Rue de Valenciennes, 28",
+    "city": "Quievrain",
+    "postalCode": "7380",
+    "lat": 50.4050776,
+    "lng": 3.6811021
+},
+{
+    "name": "Adventkerk",
+    "street": "Laarstraat 25",
+    "city": "Ranst",
+    "postalCode": "2520",
+    "lat": 51.1942563,
+    "lng": 4.5722387
+},
+{
+    "name": "Assembl\u00e9e protestante \u00e9vang\u00e9lique",
+    "street": "Rue du Bois Pirart, 127",
+    "city": "Rixensart",
+    "postalCode": "1332",
+    "lat": 50.7207605,
+    "lng": 4.4860643
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Haute, 26 A",
+    "city": "Rixensart",
+    "postalCode": "1330",
+    "lat": 50.71025770000001,
+    "lng": 4.5143659
+},
+{
+    "name": "House Church",
+    "street": "Avenue Gevaert, 254",
+    "city": "Rixensart",
+    "postalCode": "1332",
+    "lat": 50.7244265,
+    "lng": 4.510818
+},
+{
+    "name": "Association des Baptistes Ind\u00e9pendants - Eglise Baptiste Biblique",
+    "street": "Avenue de Merode, 2",
+    "city": "Rixensart",
+    "postalCode": "1330",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Avenue de Ninove, 152",
+    "city": "Rochefort",
+    "postalCode": "5580",
+    "lat": 50.1630273,
+    "lng": 5.251558000000001
+},
+{
+    "name": "Evangelische Kerk",
+    "street": "Henri Horriestraat 38",
+    "city": "Roulers",
+    "postalCode": "8800",
+    "lat": 50.9473218,
+    "lng": 3.12495
+},
+{
+    "name": "Pinkstergemeente De Roepstem",
+    "street": "Bollenstraat 21 B",
+    "city": "Roulers",
+    "postalCode": "8800",
+    "lat": 50.94139999999999,
+    "lng": 3.12236
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Jan Mahieustraat 21",
+    "city": "Roulers",
+    "postalCode": "8800",
+    "lat": 50.9476747,
+    "lng": 3.1267005
+},
+{
+    "name": "Praise Center",
+    "street": "Politiekegevangenenstraat 31",
+    "city": "Renaix",
+    "postalCode": "9600",
+    "lat": 50.7437277,
+    "lng": 3.6024398
+},
+{
+    "name": "Protestantse Kerk Ronse - Hemelvaartskerk",
+    "street": "Bredestraat 82",
+    "city": "Renaix",
+    "postalCode": "9600",
+    "lat": 50.7474025,
+    "lng": 3.6100108
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Temple s\/n",
+    "city": "Rumes",
+    "postalCode": "7618",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue Basse Marquet, 72",
+    "city": "Saint-georges-sur-meuse",
+    "postalCode": "4470",
+    "lat": 50.5818185,
+    "lng": 5.3522075
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue des Juifs, 124",
+    "city": "Saint-ghislain",
+    "postalCode": "7331",
+    "lat": 50.4730146,
+    "lng": 3.844530499999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue du Port, 38",
+    "city": "Saint-ghislain",
+    "postalCode": "7330",
+    "lat": 50.4497874,
+    "lng": 3.8173468
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Avenue du Cimeti\u00e8re, 19",
+    "city": "Sambreville",
+    "postalCode": "5060",
+    "lat": 50.4395825,
+    "lng": 4.6300789
+},
+{
+    "name": "Freie evangelische Gemeinde",
+    "street": "Malmedyer Stra\u00dfe 97 A",
+    "city": "Saint vith",
+    "postalCode": "4780",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Rue du Canal, 15",
+    "city": "Seraing",
+    "postalCode": "4100",
+    "lat": 50.5832996,
+    "lng": 5.5031061
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue Gustave Baivy, 139",
+    "city": "Seraing",
+    "postalCode": "4101",
+    "lat": 50.6133,
+    "lng": 5.49855
+},
+{
+    "name": "Eglise protestante unie de Belgique (Seraing-Centre)",
+    "street": "Rue Ferrer, 100",
+    "city": "Seraing",
+    "postalCode": "4100",
+    "lat": 50.60938489999999,
+    "lng": 5.507991899999999
+},
+{
+    "name": "Eglise protestante unie de Belgique (Seraing-Haut)",
+    "street": "Rue du Ch\u00eane, 384",
+    "city": "Seraing",
+    "postalCode": "4100",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Chapelle Protestante Baptiste",
+    "street": "Rue de Montegn\u00e9e, 40-42",
+    "city": "Seraing",
+    "postalCode": "4101",
+    "lat": 50.62578,
+    "lng": 5.516123100000001
+},
+,
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Antwerpsesteenweg 98 B",
+    "city": "Saint-nicolas",
+    "postalCode": "9100",
+    "lat": 51.1690058,
+    "lng": 4.155323399999999
+},
+{
+    "name": "Christengemeente De Regenboog",
+    "street": "Kokkelbeekstraat 57",
+    "city": "Saint-nicolas",
+    "postalCode": "9100",
+    "lat": 51.1623052,
+    "lng": 4.1418637
+},
+{
+    "name": "Vrije Evangelische Gemeente",
+    "street": "Stationsstraat 27",
+    "city": "Saint-nicolas",
+    "postalCode": "9100",
+    "lat": 51.1659904,
+    "lng": 4.1417564
+},
+{
+    "name": "Evangelische Gemeenschap De Rots",
+    "street": "Leopold II straat 15",
+    "city": "Saint-trond",
+    "postalCode": "3800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue F\u00e9lix-Joseph Clerbois, 71",
+    "city": "Soignies",
+    "postalCode": "7060",
+    "lat": 50.5740924,
+    "lng": 4.0704479
+},
+{
+    "name": "Centre Chr\u00e9tien Emmanuel",
+    "street": "Rue de la Sauveni\u00e8re, 16",
+    "city": "Spa",
+    "postalCode": "4900",
+    "lat": 50.4911766,
+    "lng": 5.8687175
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Brixhe, 24",
+    "city": "Spa",
+    "postalCode": "4900",
+    "lat": 50.4940769,
+    "lng": 5.867612400000001
+},
+{
+    "name": "Evangelische Kerk Effatha",
+    "street": "Marktplaats 5+",
+    "city": "Staden",
+    "postalCode": "8840",
+    "lat": 50.9746197,
+    "lng": 3.0149595
+},
+{
+    "name": "Evangelische Christengemeente Vlaanderen",
+    "street": "Zaal Kraanhof, Geelsebaan",
+    "city": "Tessenderlo",
+    "postalCode": "3980",
+    "lat": 51.0718477,
+    "lng": 5.086116899999999
+},
+{
+    "name": "Protestantse Kerk De Goede Herder",
+    "street": "Rutterweg 32",
+    "city": "Tongres",
+    "postalCode": "3700",
+    "lat": 50.7683496,
+    "lng": 5.4609969
+},
+{
+    "name": "Evangelische Gemeente Maranatha",
+    "street": "Zagerijstraat 11",
+    "city": "Tongres",
+    "postalCode": "3700",
+    "lat": 50.7855139,
+    "lng": 5.4717233
+},
+{
+    "name": "Christengemeente Het Levende Brood",
+    "street": "Bakvoordestraat 19",
+    "city": "Torhout",
+    "postalCode": "8820",
+    "lat": 51.03388870000001,
+    "lng": 3.0928069
+},
+{
+    "name": "Centre Vie Chr\u00e9tienne",
+    "street": "Rue du Nord, 89",
+    "city": "Tournai",
+    "postalCode": "7500",
+    "lat": 50.6143024,
+    "lng": 3.3997317
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de Marvis, 8",
+    "city": "Tournai",
+    "postalCode": "7500",
+    "lat": 50.60738480000001,
+    "lng": 3.3989619
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Barre Saint-Brice, 14",
+    "city": "Tournai",
+    "postalCode": "7500",
+    "lat": 50.6082128,
+    "lng": 3.3941736
+},
+{
+    "name": "Eglise Protestante Baptiste",
+    "street": "Chauss\u00e9e de Bruxelles, 192",
+    "city": "Tournai",
+    "postalCode": "7500",
+    "lat": 50.6044253,
+    "lng": 3.4139338
+},
+{
+    "name": "The Redeemed Christian Church of God - House of Prayer",
+    "street": "Konigin Astridlann 2",
+    "city": "Brugge",
+    "postalCode": "8020",
+    "lat": 51.1886734,
+    "lng": 3.2112494
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique",
+    "street": "Rue des Forges, 147",
+    "city": "Tubize",
+    "postalCode": "1480",
+    "lat": 50.6931496,
+    "lng": 4.212583599999999
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Rue Saint-Jean, 62",
+    "city": "Tubize",
+    "postalCode": "1480",
+    "lat": 50.6904492,
+    "lng": 4.2246799
+},
+{
+    "name": "Christelijk Centrum Turnhout",
+    "street": "Gildenstraat 54",
+    "city": "Turnhout",
+    "postalCode": "2300",
+    "lat": 51.32329739999999,
+    "lng": 4.9318642
+},
+{
+    "name": "Protestantse Kerk van Turnhout",
+    "street": "Steenweg op Gierle 188",
+    "city": "Turnhout",
+    "postalCode": "2300",
+    "lat": 51.3128007,
+    "lng": 4.9240416
+},
+{
+    "name": "Evangelisch Centrum Turnhout",
+    "street": "Guldensporenlei 27",
+    "city": "Turnhout",
+    "postalCode": "2300",
+    "lat": 51.325501,
+    "lng": 4.9371623
+},
+{
+    "name": "Arm\u00e9e du Salut",
+    "street": "Rue Thil Lorrain, 11",
+    "city": "Verviers",
+    "postalCode": "4800",
+    "lat": 50.5956195,
+    "lng": 5.8640967
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique de Verviers-Harmonie",
+    "street": "Rue Lucien Defays, 12",
+    "city": "Verviers",
+    "postalCode": "4800",
+    "lat": 50.5920109,
+    "lng": 5.8542733
+},
+{
+    "name": "Eglise de la Nouvelle Alliance",
+    "street": "Rue de Hodimont, 27",
+    "city": "Verviers",
+    "postalCode": "4800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise protestante unie de Belgique (Hodimont)",
+    "street": "Rue de la Montagne de l'Invasion, 8",
+    "city": "Verviers",
+    "postalCode": "4800",
+    "lat": 50.596452,
+    "lng": 5.851601
+},
+{
+    "name": "Eglise protestante unie de Belgique (Laoureux)",
+    "street": "Rue Laoureux, 33-35",
+    "city": "Verviers",
+    "postalCode": "4800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise adventiste",
+    "street": "Rue des D\u00e9port\u00e9s, 74",
+    "city": "Verviers",
+    "postalCode": "4800",
+    "lat": 50.5837898,
+    "lng": 5.851327299999999
+},
+{
+    "name": "Christelijke Kerk Bethani\u00eb",
+    "street": "Rollewagenstraat 76 A",
+    "city": "Vilvorde",
+    "postalCode": "1800",
+    "lat": 50.9276803,
+    "lng": 4.4513092
+},
+{
+    "name": "William Tyndale-Silo Kerk",
+    "street": "Rondeweg 3\/01",
+    "city": "Vilvorde",
+    "postalCode": "1800",
+    "lat": 50.9258556,
+    "lng": 4.420373
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique belge",
+    "street": "Rue du Temple, 1",
+    "city": "Virton",
+    "postalCode": "6762",
+    "lat": 49.5561598,
+    "lng": 5.5292696
+},
+,
+{
+    "name": "Eglise Vie et Lumi\u00e8re",
+    "street": "Rue Fernand Piette",
+    "city": "Wanze",
+    "postalCode": "4520",
+    "lat": 50.52511000000001,
+    "lng": 5.196435
+},
+{
+    "name": "Christen Centrum Waregem",
+    "street": "Parochiaal Centrum De Ark, Zuiderlaan 44 A",
+    "city": "Waregem",
+    "postalCode": "8790",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise adventiste roumaine",
+    "street": "Chauss\u00e9e d'Alsemberg, 207",
+    "city": "Braine-l'alleud",
+    "postalCode": "1420",
+    "lat": 50.6904327,
+    "lng": 4.3684083
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de la Station 135",
+    "city": "Waterloo",
+    "postalCode": "1410",
+    "lat": 50.7145045,
+    "lng": 4.383967
+},
+{
+    "name": "Eglise protestante \u00e9vang\u00e9lique de Wavre",
+    "street": "Rue Provinciale, 243",
+    "city": "Wavre",
+    "postalCode": "1301",
+    "lat": 50.70570710000001,
+    "lng": 4.5892962
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue de Nivelles, 57-63",
+    "city": "Wavre",
+    "postalCode": "1300",
+    "lat": 50.7146166,
+    "lng": 4.6074568
+},
+{
+    "name": "Eglise protestante unie de Belgique",
+    "street": "Avenue de la Belle Voie, 15",
+    "city": "Wavre",
+    "postalCode": "1300",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Verenigde Protestantse Kerk in Belgi\u00eb",
+    "street": "Spoorwegstraat 18",
+    "city": "Wevelgem",
+    "postalCode": "8560",
+    "lat": 50.8124669,
+    "lng": 3.1922655
+},
+{
+    "name": "Eglise Protestante Evang\u00e9lique de Kraainem et de Wezembeek-Oppem",
+    "street": "Arthur Dezangr\u00e9laan 3",
+    "city": "Kraainem",
+    "postalCode": "1950",
+    "lat": 50.861985,
+    "lng": 4.4647695
+},
+{
+    "name": "International Baptist Church (IBC)",
+    "street": "Lange Eikstraat 76-78",
+    "city": "Wezembeek-oppem",
+    "postalCode": "1970",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Korean Church of Brussels",
+    "street": "Museumlaan 2",
+    "city": "Wezembeek-oppem",
+    "postalCode": "1970",
+    "lat": 50.83134459999999,
+    "lng": 4.5167549
+},
+{
+    "name": "Vrije Evangelische Gemeente",
+    "street": "Dr. Persoonslaan 22",
+    "city": "Willebroek",
+    "postalCode": "2830",
+    "lat": 51.0600095,
+    "lng": 4.3617008
+},
+{
+    "name": "Vrije Evangelische Gemeente",
+    "street": "Fabriekstraat 63",
+    "city": "Zaventem",
+    "postalCode": "1930",
+    "lat": 50.8886425,
+    "lng": 4.462362199999999
+},
+{
+    "name": "Christengemeente",
+    "street": "Zavelstraat 71 A",
+    "city": "Zonhoven",
+    "postalCode": "3520",
+    "lat": 50.995788,
+    "lng": 5.3601697
+},
+{
+    "name": "Christengemeente De Hoeksteen",
+    "street": "Bijlokestraat 72",
+    "city": "Zottegem",
+    "postalCode": "9620",
+    "lat": 50.8781432,
+    "lng": 3.8284689
+},
+{
+    "name": "Volle Evangeliekerk De Herberg",
+    "street": "Avelgemstraat 78 A",
+    "city": "Zwevegem",
+    "postalCode": "8550",
+    "lat": 50.8095614,
+    "lng": 3.3362975
+},
+{
+    "name": "Baptistenkerk Antwerpen",
+    "street": "Heer van Bergenstraat 1",
+    "city": "Antwerpen",
+    "postalCode": "2050",
+    "lat": 51.2197928,
+    "lng": 4.3797886
+},
+{
+    "name": "Freedom Ministries",
+    "street": "Alfons Schneiderlaan 211",
+    "city": "Antwerpen",
+    "postalCode": "2100",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "The Redeemed Christian Church of God - Christ's Love Assembly",
+    "street": "Rue de l'Instruction 112 (3\u00e8me \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8374457,
+    "lng": 4.330074000000001
+},
+{
+    "name": "The Redeemed Christian Church of God - Faith Tabernacle",
+    "street": "Adolphe Baeyensstraat 56",
+    "city": "Gand",
+    "postalCode": "9040",
+    "lat": 51.0561503,
+    "lng": 3.751953
+},
+{
+    "name": "Assembl\u00e9ia de Deus Mission\u00e1ria",
+    "street": "Rue Th\u00e9odore Verhaegen, 9",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": 50.8273762,
+    "lng": 4.343893899999999
+},
+{
+    "name": "Eglise St.-Luc",
+    "street": "Chauss\u00e9e de Mons, 614",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.83130550000001,
+    "lng": 4.310292
+},
+{
+    "name": "Christian Associates International - The Well",
+    "street": "Bouche \u00e0 Oreille, Place Van Meyel 15 A",
+    "city": "Brussel-etterbeek",
+    "postalCode": "1040",
+    "lat": 50.8370721,
+    "lng": 4.3903361
+},
+{
+    "name": "Word Communication Ministries",
+    "street": "Rue Uyttenhove, 51 (c\u00f4t\u00e9 droit)",
+    "city": "Brussel-jette",
+    "postalCode": "1090",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Igreja Pentecostal Deus \u00e9 Fiel",
+    "street": "Rue Charles Parent\u00e9, 28 A (2\u00b0 \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Communaut\u00e9 Chr\u00e9tienne de Maisons",
+    "street": "Eglise catholique romaine Notre-Dame du Bon Secours, Les Marni\u00e8res, 2",
+    "city": "Flemalle",
+    "postalCode": "4400",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Evang\u00e9lique Mamr\u00e9",
+    "street": "Rue L\u00e9on Dosimont, 7",
+    "city": "Profondeville",
+    "postalCode": "5170",
+    "lat": 50.3844958,
+    "lng": 4.8308209
+},
+{
+    "name": "Assembl\u00e9ia de Deus - Nova Gera\u00e7\u00e3o",
+    "street": "Statiestraat 35",
+    "city": "Antwerpen",
+    "postalCode": "2600",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise de Dieu polonaise",
+    "street": "Chauss\u00e9e de Haecht, 296",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": 50.8646108,
+    "lng": 4.3738895
+},
+{
+    "name": "\u00c9glise du Centre",
+    "street": "Chauss\u00e9e de Bruxelles, 282b",
+    "city": "Charleroi",
+    "postalCode": "6040",
+    "lat": 50.4462447,
+    "lng": 4.4357937
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem \u00e0 Ans",
+    "street": "Chauss\u00e9e de Tongres, 353",
+    "city": "Ans",
+    "postalCode": "4000",
+    "lat": 50.6744929,
+    "lng": 5.5467266
+},
+{
+    "name": "\u00c9glise \u00e9vang\u00e9lique Assembl\u00e9e de Dieu internationale",
+    "street": "Rue Th\u00e9odore Verhaegen, 85",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": 50.8290276,
+    "lng": 4.3402603
+},
+{
+    "name": "Br\u00fcsszeli Magyar Protest\u00e1ns Egyh\u00e1zk\u00f6z\u00e9g \/ Eglise Hongroise Protestante de Belgique",
+    "street": "Eglise de Mus\u00e9e: Place du Mus\u00e9e, 2 \/ Coudenberg, 5",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8429271,
+    "lng": 4.357094099999999
+},
+{
+    "name": "Mission \u00e9vang\u00e9lique des Assembl\u00e9es Les Vases d'Honneur",
+    "street": "Rue Charles Parent\u00e9 28 A",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8339471,
+    "lng": 4.3306429
+},
+{
+    "name": "\u00c9glise Sion de Belgique",
+    "street": "Rue Stephenson 8",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Centre international chr\u00e9tien Sang Pr\u00e9cieux",
+    "street": "Hogeweg 16",
+    "city": "Antwerpen",
+    "postalCode": "2140",
+    "lat": 51.2133613,
+    "lng": 4.4415717
+},
+{
+    "name": "The Church of the Living God International - Salvation Center (SCCLGI)",
+    "street": "Galerie de la Porte de Namur, 7\/4",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.83865669999999,
+    "lng": 4.362074300000001
+},
+{
+    "name": "Assembl\u00e9e de l'\u00c9ternel Christ Vainqueur (AECV)",
+    "street": "Rue Merceny, 6 A",
+    "city": "Bastogne",
+    "postalCode": "6600",
+    "lat": 49.9976324,
+    "lng": 5.7164071
+},
+{
+    "name": "Centre \u00e9vang\u00e9lique Mission Maranatha",
+    "street": "",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.8235717,
+    "lng": 4.3766927
+},
+{
+    "name": "Assembl\u00e9e de l'Eternel Christ Vainqueur (AECV)",
+    "street": "Rue Scheut 56",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8427963,
+    "lng": 4.3141984
+},
+{
+    "name": "Centre \u00c9vang\u00e9lique Temple de l'\u00c9ternel (anciennement: Cit\u00e9 Bethel)",
+    "street": "Rue Uyttenhove 49",
+    "city": "Brussel-jette",
+    "postalCode": "1090",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Antwerpse Koreaanse Kerk \/ Antwerp Korean Church",
+    "street": "Lange Winkelstraat 5",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": 51.2233286,
+    "lng": 4.4118572
+},
+{
+    "name": "The Redeemed Christian Church of God - Resurrection Parish",
+    "street": "Pothoekstraat 104",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Association fraternelle de La Bouverie",
+    "street": "Rue Jules Cousin, 1",
+    "city": "Frameries",
+    "postalCode": "7080",
+    "lat": 50.3973209,
+    "lng": 3.8779773
+},
+{
+    "name": "Gospel Faith Mission International (Gofamint)",
+    "street": "Turnhoutsebaan 4",
+    "city": "Antwerpen",
+    "postalCode": "2100",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Greater Love Assembly - Divine Glory Center (ex: Grace of God Mission)",
+    "street": "Rue Doyen Fierens, 19 B",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.8575939,
+    "lng": 4.340774199999999
+},
+{
+    "name": "Eglise Vie et Lumi\u00e8re",
+    "street": "Chemin du Cimeti\u00e8re, 40",
+    "city": "Fleurus",
+    "postalCode": "6220",
+    "lat": 50.4530834,
+    "lng": 4.5238163
+},
+{
+    "name": "Communaut\u00e9 Evang\u00e9lique Philadelphie (CEP)",
+    "street": "Brussels Event Brewery, Rue Delaunoy, 58 (1\u00b0 \u00e9tage)",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.8531495,
+    "lng": 4.3300899
+},
+{
+    "name": "Internationale Presbyteriaanse Kerk (IPC)",
+    "street": "Gereformeerd Kerkcentrum, Gordunakaai 28-30",
+    "city": "Gent",
+    "postalCode": "9000",
+    "lat": 51.0429673,
+    "lng": 3.7075527
+},
+{
+    "name": "Eglise de Dieu d'expression portugaise Kairos Ministry",
+    "street": "Rue Picard, 174-178",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.86478469999999,
+    "lng": 4.3411874
+},
+{
+    "name": "Eglise Protestante Japonaise de Bruxelles",
+    "street": "Avenue A.J. Slegers, 96",
+    "city": "Brussel-sint-lambrechts-woluwe",
+    "postalCode": "1200",
+    "lat": 50.8410926,
+    "lng": 4.4264948
+},
+{
+    "name": "Iraanse Kerk van Brussel",
+    "street": "Chauss\u00e9e de Jette, 448",
+    "city": "Brussel-jette",
+    "postalCode": "1090",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Evangelische Gemeente",
+    "street": "CC Oud Gasthuis, Gemeenteplein 26",
+    "city": "Asse",
+    "postalCode": "1730",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Comunidade Crist\u00e3 Brasileira (CCBr)",
+    "street": "Eggestraat 27",
+    "city": "Mortsel",
+    "postalCode": "2640",
+    "lat": 51.1725207,
+    "lng": 4.4494655
+},
+{
+    "name": "Eglise Internationale de la Flandre Orientale (E.I.F.O.)",
+    "street": "Ninovesteenweg 84 A",
+    "city": "Aalst",
+    "postalCode": "9320",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Light of Salvation Christian Centre",
+    "street": "Lakenmakersstraat 79",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "The Redeemed Christian Church of God - Grace and Truth Arena",
+    "street": "Rue de la tulipe 32",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.83440340000001,
+    "lng": 4.3671225
+},
+{
+    "name": "The city of the living God",
+    "street": "Hendrik Consciencestraat 26",
+    "city": "Turnhout",
+    "postalCode": "2300",
+    "lat": 51.3199962,
+    "lng": 4.953416199999999
+},
+{
+    "name": "The Redeemed Christian Church of God - Victory House",
+    "street": "Rue Verheyden, 27",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8473669,
+    "lng": 4.3189779
+},
+{
+    "name": "Communaut\u00e9 chr\u00e9tienne int\u00e9grale",
+    "street": "Place de la Reine, 13",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Pentec\u00f4tiste Evang\u00e9lique de Belgique",
+    "street": "Rue Heyvaert, 187",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.84472179999999,
+    "lng": 4.329155399999999
+},
+{
+    "name": "Videira - Igreja em C\u00e9lulas",
+    "street": "Rue Charles Parent\u00e9, 3 A",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "The River Church",
+    "street": "Meerlestraat 32",
+    "city": "Lummen",
+    "postalCode": "3560",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9ia de Deus Miss\u00f5es (ex: Nova Vida)",
+    "street": "Rue Gheude, 21-25 (3\u00e8me \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.84252610000001,
+    "lng": 4.3342534
+},
+{
+    "name": "Armeense Evangelische Kerk",
+    "street": "Zandpoortvest 27",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.02436489999999,
+    "lng": 4.4878876
+},
+{
+    "name": "Assyrische Evangelische Kerk",
+    "street": "Zandpoortvest 27",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Armeense Evangelische Kerk",
+    "street": "Sint-Franciscus Xaveriuskerk, Collegelaan 32",
+    "city": "Antwerpen",
+    "postalCode": "2140",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Armeense Evangelische Kerk",
+    "street": "Runkstersteenweg 303",
+    "city": "Hasselt",
+    "postalCode": "3500",
+    "lat": 50.9240769,
+    "lng": 5.310935199999999
+},
+{
+    "name": "Centre \u00e9vang\u00e9lique",
+    "street": "Place Warocqu\u00e9, 12",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4588634,
+    "lng": 3.9483424
+},
+{
+    "name": "Eglise Chr\u00e9tienne Evang\u00e9lique Vie Nouvelle",
+    "street": "Avenue Van Volxem, 479",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": 50.82844859999999,
+    "lng": 4.3288479
+},
+{
+    "name": "Eglise Evang\u00e9lique",
+    "street": "Rue de la Justice, 11",
+    "city": "Andenne",
+    "postalCode": "5300",
+    "lat": null,
+    "lng": null
+},
+,
+{
+    "name": "Chiesa Cristiana Evangelica Italiana",
+    "street": "Risstraat 18",
+    "city": "Genk",
+    "postalCode": "3600",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Chiesa Evangelica",
+    "street": "Rue du Calvaire, 83",
+    "city": "Charleroi",
+    "postalCode": "6060",
+    "lat": 50.4243456,
+    "lng": 4.4752819
+},
+{
+    "name": "Eglise Chr\u00e9tienne Evang\u00e9lique",
+    "street": "Rue Lloyd George, 6 A",
+    "city": "Mons",
+    "postalCode": "7012",
+    "lat": 50.4483189,
+    "lng": 3.8829729
+},
+,
+,
+{
+    "name": "Eglise Chr\u00e9tienne Evang\u00e9lique Italienne",
+    "street": "Rue de Hesbaye, 236",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.65005379999999,
+    "lng": 5.549348
+},
+{
+    "name": "Chiesa Evangelica Italiana",
+    "street": "Oude Baan 141",
+    "city": "Maasmechelen",
+    "postalCode": "3630",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Chretienne Italienne",
+    "street": "Avenue Eug\u00e8ne Mascaux, 293 A",
+    "city": "Charleroi",
+    "postalCode": "6001",
+    "lat": 50.3933049,
+    "lng": 4.440298299999999
+},
+{
+    "name": "Eglise Chr\u00e9tienne Evang\u00e9lique",
+    "street": "Rue de la Grattine, 29",
+    "city": "Morlanwelz",
+    "postalCode": "7140",
+    "lat": 50.4509172,
+    "lng": 4.2378861
+},
+{
+    "name": "Eglise Chr\u00e9tienne Evang\u00e9lique",
+    "street": "Rue de Monsville, 159-161",
+    "city": "Quaregnon",
+    "postalCode": "7390",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Chr\u00e9tienne Evang\u00e9lique",
+    "street": "Rue Trieu Gossiaux, 25",
+    "city": "Fleurus",
+    "postalCode": "6224",
+    "lat": 50.4651872,
+    "lng": 4.5835613
+},
+{
+    "name": "Christelijk Centrum Het Lichthuis",
+    "street": "Pastorijstraat 42",
+    "city": "Beringen",
+    "postalCode": "3582",
+    "lat": 51.0613694,
+    "lng": 5.2762408
+},
+{
+    "name": "Word Alive International Ministry",
+    "street": "Place Masui, 27",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8710549,
+    "lng": 4.3650896
+},
+{
+    "name": "International Christian Ministries",
+    "street": "Muizenstraat 3",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2221691,
+    "lng": 4.4210274
+},
+{
+    "name": "Word Communication Ministries",
+    "street": "Bredabaan 425",
+    "city": "Antwerpen",
+    "postalCode": "2170",
+    "lat": 51.2437912,
+    "lng": 4.444334899999999
+},
+{
+    "name": "Communaut\u00e9 Chr\u00e9tienne de Seneffe",
+    "street": "Studio Silver Ray, Rue du Long Tri, 48 C",
+    "city": "Seneffe",
+    "postalCode": "7180",
+    "lat": 50.516824,
+    "lng": 4.221754
+},
+{
+    "name": "Communaut\u00e9 protestante de Fraire",
+    "street": "Rue de Rocroi, 39",
+    "city": "Walcourt",
+    "postalCode": "5650",
+    "lat": 50.26120909999999,
+    "lng": 4.507661199999999
+},
+{
+    "name": "Rhema Pinksterkerk",
+    "street": "Capucijnenstraat 8",
+    "city": "Saint-trond",
+    "postalCode": "3800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9e Protestante Evang\u00e9lique de Jodoigne (APEJ)",
+    "street": "Maison de Village, Rue de Basse Hollande, 4",
+    "city": "Jodoigne",
+    "postalCode": "1370",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise chr\u00e9tienne protestante",
+    "street": "Rue Emile Muraille, 226",
+    "city": "Herstal",
+    "postalCode": "4040",
+    "lat": 50.6759573,
+    "lng": 5.6198896
+},
+{
+    "name": "Het Huis van God",
+    "street": "Afrikalaan 180+",
+    "city": "Gent",
+    "postalCode": "9000",
+    "lat": 51.0685317,
+    "lng": 3.7383069
+},
+{
+    "name": "Igreja Universal do Reino de Deus",
+    "street": "Rue Crickx Lambert, 3",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8409048,
+    "lng": 4.3383717
+},
+{
+    "name": "Universele Kerk van Gods Rijk",
+    "street": "Dendermondsesteenweg 57a",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9ia de Deus, Minist\u00e9rio Madureira - Gurupi TO (Projet Un Million d'Ailes)",
+    "street": "Rue Th\u00e9odore Verhaegen, 202",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": 50.8311359,
+    "lng": 4.334880099999999
+},
+{
+    "name": "Eglise La Bonne Semence",
+    "street": "Noordersingel 17 B5",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2223906,
+    "lng": 4.448866199999999
+},
+{
+    "name": "Assembl\u00e9e chr\u00e9tienne de Kinshasa",
+    "street": "Noorderlaan 115 (2e verdieping)",
+    "city": "Antwerpen",
+    "postalCode": "2030",
+    "lat": 51.2632002,
+    "lng": 4.41716
+},
+{
+    "name": "Assembl\u00e9e du Mont Sion",
+    "street": "Sint-Bernardsesteenweg 770",
+    "city": "Antwerpen",
+    "postalCode": "2660",
+    "lat": 51.179135,
+    "lng": 4.369459099999999
+},
+{
+    "name": "L'Ami fid\u00e8le",
+    "street": "Franklin Rooseveltlaan 109",
+    "city": "Vilvorde",
+    "postalCode": "1800",
+    "lat": 50.9301745,
+    "lng": 4.4266233
+},
+{
+    "name": "Communaut\u00e9s chr\u00e9tiennes \u00e9vang\u00e9liques",
+    "street": "Avenue d'Hyon, 70",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4463991,
+    "lng": 3.9548634
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique Source de Vie",
+    "street": "Rue Gheude, 21-25 (1\u00b0 \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.84252610000001,
+    "lng": 4.3342534
+},
+{
+    "name": "Evangelische Gemeente Oase",
+    "street": "Hayenhoek 15 B",
+    "city": "Neerpelt",
+    "postalCode": "3910",
+    "lat": 51.2357038,
+    "lng": 5.431429500000001
+},
+{
+    "name": "Prayer Centre for All Nations",
+    "street": "Papaverstraat 5",
+    "city": "Antwerpen",
+    "postalCode": "2170",
+    "lat": 51.25427,
+    "lng": 4.44001
+},
+{
+    "name": "Wesley Methodist Church",
+    "street": "Frans Erlingerstraat 12",
+    "city": "Antwerpen",
+    "postalCode": "2100",
+    "lat": 51.2220615,
+    "lng": 4.471209
+},
+{
+    "name": "Wesley Methodist Church",
+    "street": "Rue du Champ de Mars, 5",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "\u00c9glise internationale pentec\u00f4tiste de saintet\u00e9 de Belgique (IPHC) - Logos Church",
+    "street": "Rue Brogniez, 41 (1\u00b0 \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8420764,
+    "lng": 4.3373126
+},
+{
+    "name": "Assembl\u00e9e missionnaire Rh\u00e9ma",
+    "street": "Rue Gheude, 21-25 (3\u00e8me \u00e9tage)",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.84252610000001,
+    "lng": 4.3342534
+},
+{
+    "name": "Go Generation - De l'Espoir pour tous",
+    "street": "Rue Rogivaux 21",
+    "city": "Herstal",
+    "postalCode": "4040",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Centre chr\u00e9tien Lumi\u00e8re des Nations",
+    "street": "Rue Van Ysendyck, 48-50",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Vergadering van Evangelische Christenen",
+    "street": "Elisabethlaan 200",
+    "city": "Ninove",
+    "postalCode": "9400",
+    "lat": 50.8300974,
+    "lng": 4.0137236
+},
+,
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Ledebaan 39",
+    "city": "Aalst",
+    "postalCode": "9300",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Lakenmakersstraat 233",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.0297263,
+    "lng": 4.4981319
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem",
+    "street": "Rue des Capucins, 5",
+    "city": "Enghien",
+    "postalCode": "7850",
+    "lat": 50.694945,
+    "lng": 4.0374335
+},
+{
+    "name": "Genesis International",
+    "street": "Hendrik Kuijpersstraat 60",
+    "city": "Mortsel",
+    "postalCode": "2640",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Mission Adriel",
+    "street": "Rue des Protestants, 35",
+    "city": "Charleroi",
+    "postalCode": "6040",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Colonne et l'Appui de la V\u00e9rit\u00e9",
+    "street": "Chauss\u00e9e de Bruxelles, 265",
+    "city": "Charleroi",
+    "postalCode": "6020",
+    "lat": 50.4200901,
+    "lng": 4.4398688
+},
+{
+    "name": "World Mission Agency (ex-Winners Chapel Int.)",
+    "street": "Avenue Docteur Zamenhof, 35",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Evang\u00e9lique Arabophone de Belgique",
+    "street": "Eglise Saint-Antoine, Place Saint-Antoine",
+    "city": "Brussel-etterbeek",
+    "postalCode": "1040",
+    "lat": 50.82931070000001,
+    "lng": 4.3864806
+},
+{
+    "name": "Christengemeente Maaseik",
+    "street": "Parochiecentrum, Mgr. Koningsstraat 8 B",
+    "city": "Maaseik",
+    "postalCode": "3680",
+    "lat": 51.09496559999999,
+    "lng": 5.7948185
+},
+{
+    "name": "L'Autre Rive",
+    "street": "Salle La Sapini\u00e8re, Rue Chapelle Marion, 11",
+    "city": "Gembloux",
+    "postalCode": "5030",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Mission Pentec\u00f4tiste",
+    "street": "Rue Brogniez 21",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise baptiste Renascer, Catedral da Adora\u00e7\u00e3o",
+    "street": "Rue Brogniez, 21",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Mission eccl\u00e9siastique de Restauration Exode",
+    "street": "R.-k. Sint-Lukaskerk, Ernest Claesstraat 5",
+    "city": "Antwerpen",
+    "postalCode": "2050",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique Sion Y.O.R.",
+    "street": "Gal\u00e9rie de la Porte de Namur, 7\/4",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.83865669999999,
+    "lng": 4.362074300000001
+},
+{
+    "name": "Eglise des Missionnaires du Reveil - Revival Missionaries Ministry (R.M.M.)",
+    "street": "Rue de Bomel, 82",
+    "city": "Namur",
+    "postalCode": "5000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Mission La Paix du Seigneur",
+    "street": "Rue des ailes 60",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1030",
+    "lat": 50.8679803,
+    "lng": 4.3761446
+},
+{
+    "name": "Fraternit\u00e9 \u00e9vang\u00e9lique de Pentec\u00f4te en Afrique et en Belgique - Paroisse de Charleroi",
+    "street": "Boulevard Audent, 58",
+    "city": "Charleroi",
+    "postalCode": "6000",
+    "lat": 50.4091067,
+    "lng": 4.4466678
+},
+{
+    "name": "Eglise \u00e9vang\u00e9lique roumaine Esp\u00e9rance",
+    "street": "Rue de Beaumont, 206",
+    "city": "Charleroi-marchienne-au-pont",
+    "postalCode": "6030",
+    "lat": 50.4003769,
+    "lng": 4.3947123
+},
+{
+    "name": "Centre \u00e9vang\u00e9lique Le Tabernacle",
+    "street": "Rue Eloy 8",
+    "city": "Soignies",
+    "postalCode": "7060",
+    "lat": 50.57889309999999,
+    "lng": 4.0729934
+},
+{
+    "name": "Eglise Apostolique B\u00e9thel",
+    "street": "Rue Saint-hubert 45 a",
+    "city": "Manage",
+    "postalCode": "7170",
+    "lat": 50.5014621,
+    "lng": 4.2215118
+},
+{
+    "name": "Internationale Kerkgemeenschap Gent (ICCG)",
+    "street": "R.-k. Maria Goretti-kerk, Blaisantvest 39",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Assembl\u00e9e de J\u00e9sus-Christ - Mission Evang\u00e9lique (AJC)",
+    "street": "Beigemsesteenweg 79",
+    "city": "Grimbergen",
+    "postalCode": "1850",
+    "lat": 50.9404599,
+    "lng": 4.361524
+},
+{
+    "name": "Centre International Esp\u00e9rance et Vie",
+    "street": "Rue des Bollandistes, 40",
+    "city": "Brussel-etterbeek",
+    "postalCode": "1040",
+    "lat": null,
+    "lng": null
+},
+,
+{
+    "name": "Eglise de J\u00e9sus la Gr\u00e2ce par la Foi en J\u00e9sus-Christ (La Grafoi)",
+    "street": "Rue Potag\u00e8re, 9",
+    "city": "Brussel-sint-joost-ten-node",
+    "postalCode": "1210",
+    "lat": 50.8513812,
+    "lng": 4.3702881
+},
+{
+    "name": "Assembl\u00e9e des Saints",
+    "street": "Rue de Birmingham, 54",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.8476644,
+    "lng": 4.3266209
+},
+{
+    "name": "La Maison du Potier",
+    "street": "Rue des mat\u00e9riaux 71",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8412117,
+    "lng": 4.3218139
+},
+{
+    "name": "Eglise de Pentec\u00f4te Alpha Om\u00e9ga",
+    "street": "Rue Jean Jaur\u00e8s, 244",
+    "city": "Charleroi",
+    "postalCode": "6020",
+    "lat": 50.4223482,
+    "lng": 4.4260673
+},
+{
+    "name": "Jesus is Lord Church",
+    "street": "Avenue Monplaisirlaan 77-89",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": 50.87685940000001,
+    "lng": 4.3779432
+},
+{
+    "name": "Grace Family Church",
+    "street": "Steenstraat 1",
+    "city": "Vleteren",
+    "postalCode": "8640",
+    "lat": 50.9009926,
+    "lng": 2.7899248
+},
+{
+    "name": "The Redeemed Christian Church of God - Christ's Ambassadors",
+    "street": "Place Masui, 27",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8710549,
+    "lng": 4.3650896
+},
+{
+    "name": "The Redeemed Christian Church of God - Winners Assembly",
+    "street": "Diestsesteenweg 56",
+    "city": "Louvain",
+    "postalCode": "3010",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "The Redeemed Christian Church of God - House of Praise",
+    "street": "Voorhavenlaan 31",
+    "city": "Ostende",
+    "postalCode": "8400",
+    "lat": 51.227627,
+    "lng": 2.9426037
+},
+{
+    "name": "The Redeemed Christian Church of God - Jesus House",
+    "street": "Bollebergen 7",
+    "city": "Gand",
+    "postalCode": "9052",
+    "lat": 51.0128771,
+    "lng": 3.7043578
+},
+{
+    "name": "Iglesia Adventista del 7\u00b0 D\u00eda Hispana de Amberes",
+    "street": "Bexstraat 13 (contact: Charles de Costerlaan 19\/E14)",
+    "city": "Antwerpen",
+    "postalCode": "2050",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Que Ton R\u00e8gne Vienne",
+    "street": "Rue Flament, 12",
+    "city": "Peruwelz",
+    "postalCode": "7600",
+    "lat": 50.51176520000001,
+    "lng": 3.590732
+},
+{
+    "name": "Assyrische Christelijke Gemeenschap (ACG) Beth-El",
+    "street": "Ter Hertstraat 1",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": 51.0466111,
+    "lng": 4.47718
+},
+{
+    "name": "Impact Centre chr\u00e9tien - Campus de Bruxelles",
+    "street": "Rue des Lutins 8",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": 50.7999346,
+    "lng": 4.3149092
+},
+{
+    "name": "Awakening souls international ministries",
+    "street": "W.Z.C TEMPELHOF, Sint Margrietstraat 36",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.0598649,
+    "lng": 3.7208039
+},
+{
+    "name": "Every Nation Church",
+    "street": "Sint-Jansvest 28 A",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": 51.0498979,
+    "lng": 3.727761299999999
+},
+{
+    "name": "Chapelle de l'Evangile",
+    "street": "Place Raymond Blyckaerts, 4",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Borne",
+    "street": "Chauss\u00e9e de Roodebeek, 128",
+    "city": "Brussel-sint-lambrechts-woluwe",
+    "postalCode": "1200",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Greater Love Assembly (Divine Empowerment Center)",
+    "street": "Rue Van Lint, 53",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8397009,
+    "lng": 4.3266738
+},
+{
+    "name": "\u00c9glise \u00e9vang\u00e9lique baptiste Le C\u00e8dre",
+    "street": "RUE Longtin Honor\u00e9 44",
+    "city": "Brussel-jette",
+    "postalCode": "1090",
+    "lat": 50.8663134,
+    "lng": 4.331686299999999
+},
+{
+    "name": "Assembl\u00e9e Chr\u00e9tienne Shamma",
+    "street": "Rue Jenart, 21",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.86003359999999,
+    "lng": 4.3383596
+},
+{
+    "name": "Eglise de Jesus-Christ de verite la grace de Dieu",
+    "street": "Chauss\u00e9e de Mons, 180",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8415339,
+    "lng": 4.3294946
+},
+{
+    "name": "Faith international mission",
+    "street": "Rue Heyvaert, 187",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.84472179999999,
+    "lng": 4.329155399999999
+},
+{
+    "name": "Saint Paul Church",
+    "street": "Boulevard Emile Jacqmain, 60",
+    "city": "Brussel",
+    "postalCode": "1000",
+    "lat": 50.8536352,
+    "lng": 4.353642300000001
+},
+{
+    "name": "The Bridge",
+    "street": "Leuvensesteenweg 50\u00a0",
+    "city": "St. stevens woluwe",
+    "postalCode": "1932",
+    "lat": 50.8642883,
+    "lng": 4.43573
+},
+{
+    "name": "Assembl\u00e9e Chr\u00e9tienne The Bridge",
+    "street": "Rue du Vivier, 180",
+    "city": "Bastogne",
+    "postalCode": "6600",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Tabernacle nouvelle alliance",
+    "street": "Rue Joseph Claes, 48",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": 50.8329612,
+    "lng": 4.3379974
+},
+{
+    "name": "Eglise Evangelique des temoins du Christ",
+    "street": "Rue de Berghes, 22",
+    "city": "Liege",
+    "postalCode": "4020",
+    "lat": 50.6394296,
+    "lng": 5.5844575
+},
+{
+    "name": "The Lighthouse Centre",
+    "street": "Stationsstraat 13",
+    "city": "Aalst",
+    "postalCode": "9300",
+    "lat": 50.9414599,
+    "lng": 4.0373579
+},
+{
+    "name": "God is Able Ministry",
+    "street": "Avenue van Volxem, 400",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": 50.8270764,
+    "lng": 4.326954600000001
+},
+{
+    "name": "Lighthouse fellowship",
+    "street": "Leeuwlantstraat 92",
+    "city": "Antwerpen",
+    "postalCode": "2100",
+    "lat": 51.2236218,
+    "lng": 4.4663783
+},
+{
+    "name": "The Lord's chosen church",
+    "street": "Rue Van Lint, 51",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8396942,
+    "lng": 4.3267742
+},
+{
+    "name": "Divine Grace redemption gospel ministries (more grace center)",
+    "street": "Statiestraat 16",
+    "city": "Antwerpen",
+    "postalCode": "2600",
+    "lat": 51.19740239999999,
+    "lng": 4.423655999999999
+},
+{
+    "name": "Mission Evang\u00e9lique \"J\u00e9sus t'aime\"",
+    "street": "Chauss\u00e9e de Gilly, 8",
+    "city": "Charleroi",
+    "postalCode": "6040",
+    "lat": 50.4420475,
+    "lng": 4.4383243
+},
+{
+    "name": "Universele Kerk van het Koninkrijk Gods",
+    "street": "Dendermondsesteenweg 52",
+    "city": "Aalst",
+    "postalCode": "9300",
+    "lat": 51.0025419,
+    "lng": 4.1262624
+},
+{
+    "name": "Universele Kerk van het Koninkrijk Gods",
+    "street": "Lange Winkelhaakstraat 23",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Universelle du Royaume de Dieu",
+    "street": "Boulevard Joseph Tirou, 25",
+    "city": "Charleroi",
+    "postalCode": "6020",
+    "lat": 50.4086052,
+    "lng": 4.43893
+},
+{
+    "name": "Eglise Universelle du Royaume de Dieu",
+    "street": "Chauss\u00e9e de Wavre, 31a",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": 50.8370393,
+    "lng": 4.3637305
+},
+{
+    "name": "Eglise Universelle du Royaume de Dieu",
+    "street": "Boulevard de la Sauveni\u00e8re, 107",
+    "city": "Liege",
+    "postalCode": "4000",
+    "lat": 50.6421911,
+    "lng": 5.5666163
+},
+{
+    "name": "Eglise La Belle",
+    "street": "Statiestraat 33",
+    "city": "Antwerpen",
+    "postalCode": "2600",
+    "lat": 51.1975629,
+    "lng": 4.4246484
+},
+{
+    "name": "Christ ambassadors chapel",
+    "street": "Emanuel Hielstraat 68",
+    "city": "Gand",
+    "postalCode": "9050",
+    "lat": 51.0436709,
+    "lng": 3.7590381
+},
+{
+    "name": "Eglise Evang\u00e9lique - Bethleem",
+    "street": "Rue de Birmingham, 54",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.8476644,
+    "lng": 4.3266209
+},
+{
+    "name": "R\u00e9veil de la Foi",
+    "street": "Avenue Docteur Zamenhof, 31b",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8284771,
+    "lng": 4.3065257
+},
+{
+    "name": "Minist\u00e8re de la foi du Dieu-vivant",
+    "street": "Rue Ransfort, 50",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.85212689999999,
+    "lng": 4.3359185
+},
+{
+    "name": "Foi Audacieuse International",
+    "street": "Square de l\u2019Aviation, 15",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Pentec\u00f4tiste de la Victoire",
+    "street": "Square de l\u2019Aviation, 15, boite 2",
+    "city": "Brussel-sint-gillis",
+    "postalCode": "1060",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Redeemed Christian Church of God, Bethel House",
+    "street": "Nieuwstraat 25",
+    "city": "Saint-nicolas",
+    "postalCode": "9100",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Vaincre",
+    "street": "Rue du Chimiste 58-60",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": 50.8465702,
+    "lng": 4.334490199999999
+},
+{
+    "name": "Eglise Le Sanctuaire de J\u00e9sus",
+    "street": "Rue de la V\u00e9rit\u00e9 1",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.83859529999999,
+    "lng": 4.3090603
+},
+{
+    "name": "Assembl\u00e9e de Dieu Logos-Communion",
+    "street": "Rue Eloy 81",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Chapelle de la Victoire",
+    "street": "Rue du Chimiste 58-60",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise La Cit\u00e9 de la Foi",
+    "street": "Rue Brialmont 7",
+    "city": "Brussel-sint-joost-ten-node",
+    "postalCode": "1210",
+    "lat": 50.8536857,
+    "lng": 4.367121300000001
+},
+{
+    "name": "Eglise Montagne de Transfiguration",
+    "street": "Rue de l'Instruction 112",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8374457,
+    "lng": 4.330074000000001
+},
+{
+    "name": "Minist\u00e8re International pour le Salut des Ames",
+    "street": "Avenue de l'Arbre Ballon 12",
+    "city": "Brussel-jette",
+    "postalCode": "1090",
+    "lat": 50.8937233,
+    "lng": 4.3260231
+},
+{
+    "name": "Assembl\u00e9e de Dieu La Nouvelle Bergerie",
+    "street": "Rue Birmingham 349",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.8399678,
+    "lng": 4.3126694
+},
+{
+    "name": "MINISTERE POUR LA GUERISON DES NATIONS",
+    "street": "Rue Moulin Lavigne 1 B",
+    "city": "Namur",
+    "postalCode": "5002",
+    "lat": 50.47353,
+    "lng": 4.856459399999999
+},
+{
+    "name": "Lifepoint Church",
+    "street": "Rue Colonel Bourg 123",
+    "city": "Brussel-evere",
+    "postalCode": "1140",
+    "lat": 50.8548965,
+    "lng": 4.416039899999999
+},
+{
+    "name": "L'Arche pour la Terre Promise",
+    "street": "Galerie Porte de Namur 23, bo\u00eete 01",
+    "city": "Brussel-elsene",
+    "postalCode": "1050",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Op Weg Geloofsgemeenschap",
+    "street": "Jan Van Aelbroecklaan 33",
+    "city": "Gand",
+    "postalCode": "9050",
+    "lat": 51.0295569,
+    "lng": 3.7692785
+},
+{
+    "name": "Eglise Protestante Evang\u00e9lique \u201cLa Trinit\u00e9\u201d",
+    "street": "Rue Delaunoy 58",
+    "city": "Brussel-sint-jans-molenbeek",
+    "postalCode": "1080",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Nouvelle J\u00e9rusalem \u00e0 Courcelles",
+    "street": "Rue de la Glacerie 122",
+    "city": "Courcelles",
+    "postalCode": "6180",
+    "lat": 50.4669269,
+    "lng": 4.3963804
+},
+{
+    "name": "Working With The Lord Ministry",
+    "street": "Onderwijsstraat 28",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.22527969999999,
+    "lng": 4.4343545
+},
+{
+    "name": "Vineyard-Antwerpen",
+    "street": "Lambermondstraat 12",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": 51.2114341,
+    "lng": 4.3986431
+},
+{
+    "name": "Winners International Ministry",
+    "street": "August De Boeckstraat 2B",
+    "city": "Saint-nicolas",
+    "postalCode": "9100",
+    "lat": 51.15719110000001,
+    "lng": 4.1539983
+},
+{
+    "name": "Centre Evangelique La Restauration",
+    "street": "Edmond Blockstraat 12 B",
+    "city": "Gand",
+    "postalCode": "9050",
+    "lat": 51.0455148,
+    "lng": 3.7556496
+},
+{
+    "name": "Greater Love Assembly \/ Tribe of praise",
+    "street": "Rue Leopold 20",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.452991,
+    "lng": 3.943566
+},
+{
+    "name": "The Door Christian Fellowship Church Antwerp",
+    "street": "Provinciestraat 209",
+    "city": "Antwerpen",
+    "postalCode": "2018",
+    "lat": 51.21134370000001,
+    "lng": 4.426272099999999
+},
+{
+    "name": "Assembl\u00e9e Chr\u00e9tienne Evang\u00e9lique de Pentec\u00f4te L'arche de No\u00e9",
+    "street": "Rue du Bailli 5",
+    "city": "Fleurus",
+    "postalCode": "6220",
+    "lat": 50.82712919999999,
+    "lng": 4.3629706
+},
+{
+    "name": "Bethel Assembl\u00e9e Evang\u00e9lique Foi Vivante Paix en Christ",
+    "street": "Rue des Cannoniers 26",
+    "city": "Mons",
+    "postalCode": "7000",
+    "lat": 50.4486293,
+    "lng": 3.9445554
+},
+{
+    "name": "Bethesda Church",
+    "street": "Rue de l'El\u00e9phant 19",
+    "city": "Renaix",
+    "postalCode": "9600",
+    "lat": 50.7458463,
+    "lng": 3.6063339
+},
+{
+    "name": "Communaut\u00e9 du Salut Christ est Vivant",
+    "street": "Rue des Alli\u00e9s 274",
+    "city": "Brussel-vorst",
+    "postalCode": "1190",
+    "lat": 50.8224312,
+    "lng": 4.327154699999999
+},
+{
+    "name": "Eglise Evang\u00e9lique Christ-Vivant",
+    "street": "Lakborslei 108 bus 9",
+    "city": "Antwerpen",
+    "postalCode": "2100",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Pentec\u00f4te Arche de Dieu",
+    "street": "Rue Emile Vandervelde 44 B",
+    "city": "Charleroi-marchienne-au-pont",
+    "postalCode": "6030",
+    "lat": 50.4094037,
+    "lng": 4.3940785
+},
+{
+    "name": "Fontaine Tabernacle",
+    "street": "Hamerstraat 21-25",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Fraternit\u00e9 \u00c9vang\u00e9lique de Pentec\u00f4te en Afrique & en Belgique, Paroisse de Namur",
+    "street": "Rue Bathasar-Florence 31",
+    "city": "Namur",
+    "postalCode": "5000",
+    "lat": 50.46615329999999,
+    "lng": 4.8448292
+},
+{
+    "name": "Godly Peace Pentecostal Church",
+    "street": "Rue Gheude 21-25",
+    "city": "Brussel-anderlecht",
+    "postalCode": "1070",
+    "lat": 50.84252610000001,
+    "lng": 4.3342534
+},
+{
+    "name": "Jesus is Lord Church Gent",
+    "street": "Phoenixstraat 59",
+    "city": "Gand",
+    "postalCode": "9000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Jesus is Lord Church Antwerpen",
+    "street": "Van Arteveldestraat 7",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.21967369999999,
+    "lng": 4.4196291
+},
+{
+    "name": "Alive Kerk",
+    "street": "Gebouwen van het Heilig Hartinstituut, Naamsesteenweg 355",
+    "city": "Louvain",
+    "postalCode": "3001",
+    "lat": 50.8580675,
+    "lng": 4.6987136
+},
+{
+    "name": "Het Huis van God",
+    "street": "Langemeersstraat 6",
+    "city": "Courtrai",
+    "postalCode": "8500",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Cit\u00e9 B\u00e9thel Flandre",
+    "street": "Schakelstraat 8",
+    "city": "Waregem",
+    "postalCode": "8790",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "La Colonne de Feu Connexion",
+    "street": "Rue G\u00e9n\u00e9ral Eeenens 62",
+    "city": "Brussel-schaarbeek",
+    "postalCode": "1030",
+    "lat": 50.8688799,
+    "lng": 4.3774399
+},
+{
+    "name": "Centre Evang\u00e9lique et Missionnaire Amis de Christ",
+    "street": "Rue Lloyd-Georges 45",
+    "city": "Mons",
+    "postalCode": "7012",
+    "lat": 50.449324,
+    "lng": 3.8833636
+},
+{
+    "name": "Due Season Ministries",
+    "street": "Kersbeekstraat 13",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2210006,
+    "lng": 4.4386062
+},
+{
+    "name": "Gloriepoort",
+    "street": "Hendrik Kuijpersstraat 60",
+    "city": "Mortsel",
+    "postalCode": "2640",
+    "lat": 51.177612,
+    "lng": 4.4385723
+},
+{
+    "name": "Evangelische Levendwater Gemeente",
+    "street": "Sint-Jozefsweg 2",
+    "city": "Courtrai",
+    "postalCode": "8540",
+    "lat": 50.8357835,
+    "lng": 3.3499214
+},
+{
+    "name": "Impact Centre Chr\u00e9tien - Campus Li\u00e8ge",
+    "street": "Rue du Sewage 3\/1",
+    "city": "Seraing",
+    "postalCode": "4100",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Eglise Emmanuel Etterbeek",
+    "street": "l'Arri\u00e8re-Sc\u00e8ne, Rue de Chamb\u00e9ry 32",
+    "city": "Brussel-etterbeek",
+    "postalCode": "1040",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Believers Emblem Ministries",
+    "street": "Lovelingstraat 8",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Christ Fellowship Bible Ministries ",
+    "street": "Lange Van Sterbeeckstraat 323",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2240349,
+    "lng": 4.4250588
+},
+{
+    "name": "Church Of Pentecost P.I.W.C.",
+    "street": "Langescholierstraat 17",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2242437,
+    "lng": 4.4269303
+},
+{
+    "name": "End Time Harvesters International Ministries",
+    "street": "Gasstraat 31\/11",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2254862,
+    "lng": 4.4257463
+},
+{
+    "name": "Eglise Grace de Dieu ",
+    "street": "Van Arteveldestraat 25",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2201546,
+    "lng": 4.4196171
+},
+{
+    "name": "Eglise Vie Combl\u00e9e ",
+    "street": "Lindeboom 2",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2198819,
+    "lng": 4.4359332
+},
+{
+    "name": "Assembleia De Deus Nova Vida",
+    "street": "Itali\u00eblei 90",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2225785,
+    "lng": 4.415519800000001
+},
+{
+    "name": "Grace Communion International",
+    "street": "Hanegraafstraat",
+    "city": "Antwerpen",
+    "postalCode": "3050",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Le Rocher du Salut",
+    "street": "Trapstraat 16",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Outreach Internat. Ministry",
+    "street": "Dambruggestraat 281",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2278616,
+    "lng": 4.4218201
+},
+{
+    "name": "The Redeemed Christian Church of God  - Calvary Parish ",
+    "street": "Carnotstraat 78",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.21815489999999,
+    "lng": 4.4254699
+},
+{
+    "name": "Revelation of God Ministry",
+    "street": "Dambruggestraat 55",
+    "city": "Antwerpen",
+    "postalCode": "2060",
+    "lat": 51.2203384,
+    "lng": 4.4231471
+},
+{
+    "name": "Vergadering Van Gelovigen",
+    "street": "Lamorini\u00e8restraat 223",
+    "city": "Antwerpen",
+    "postalCode": "2018",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Apostleship Faith Ministry",
+    "street": "Lange Pastoorstraat 13-15",
+    "city": "Antwerpen-berchem",
+    "postalCode": "2600",
+    "lat": 51.19365639999999,
+    "lng": 4.418923599999999
+},
+{
+    "name": "Eglise Vie Nouvelle ",
+    "street": "Hogeweg 14",
+    "city": "Antwerpen-borgerhout",
+    "postalCode": "2140",
+    "lat": 51.2134157,
+    "lng": 4.4414305
+},
+{
+    "name": "Jesus The Light Mission",
+    "street": "Stenenbrug 11",
+    "city": "Antwerpen-borgerhout",
+    "postalCode": "2140",
+    "lat": 51.2144844,
+    "lng": 4.4443807
+},
+{
+    "name": "Le Tr\u00f4ne de L'Eternel ",
+    "street": "Albrecht Rodenbachlaan 15",
+    "city": "Antwerpen-borgerhout",
+    "postalCode": "2140",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Vergadering Van Gelovigen",
+    "street": "Fonteinstraat 4a",
+    "city": "Antwerpen-borgerhout",
+    "postalCode": "2140",
+    "lat": 51.2128645,
+    "lng": 4.4426491
+},
+{
+    "name": "Christian Center Bethel",
+    "street": "Schotensesteenweg 33",
+    "city": "Antwerpen-deurne",
+    "postalCode": "2100",
+    "lat": 51.21997,
+    "lng": 4.4758409
+},
+{
+    "name": "Gospel Faith Kingdom Outreach",
+    "street": "Ten Eekhovelei 292",
+    "city": "Antwerpen-deurne",
+    "postalCode": "2100",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Pinkstergemeente 'op De Rots'",
+    "street": "Oudenaardsesteenweg 111",
+    "city": "Avelgem",
+    "postalCode": "8580",
+    "lat": null,
+    "lng": null
+},
+{
+    "name": "Church Of Pentecost",
+    "street": "Jan Boninstraat 20",
+    "city": "Brugge",
+    "postalCode": "8000",
+    "lat": 51.2136945,
+    "lng": 3.2206254
+},
+{}]
