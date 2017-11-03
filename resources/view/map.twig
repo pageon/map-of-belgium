@@ -12,12 +12,12 @@
         var srcImage = '/belgium.svg';
         var boundariesOfBelgium = {
             'ne': {
-                'lat': 51.505,
+                'lat': 51.6,
                 'lng': 6.38
             },
             'sw': {
-                'lat': 49.5,
-                'lng': 2.56
+                'lat': 49.45,
+                'lng': 2.57
             }
         };
 
@@ -25,7 +25,7 @@
         var swBound = new google.maps.LatLng(boundariesOfBelgium.sw.lat, boundariesOfBelgium.sw.lng);
         var bounds = new google.maps.LatLngBounds(swBound, neBound);
         var center = new google.maps.LatLng(50.5, 4.5);
-        var zoom = 9;
+        var zoom = 8;
 
         var mapOptions = {
             zoom: zoom,
@@ -100,14 +100,14 @@
                 addMarker(49.508816, 5.610255);
                 addMarker(boundariesOfBelgium.ne.lat, boundariesOfBelgium.ne.lng);
                 addMarker(boundariesOfBelgium.sw.lat, boundariesOfBelgium.sw.lng);
-            }
+            } else {
+                for (let church of churches) {
+                    if (!church || !church.lat || !church.lng) {
+                        continue;
+                    }
 
-            for (let church of churches) {
-                if (!church || !church.lat || !church.lng) {
-                    continue;
+                    addMarker(church.lat, church.lng);
                 }
-
-                addMarker(church.lat, church.lng);
             }
 
             new MarkerClusterer(map, markers, {
@@ -129,21 +129,14 @@
 
         Overlay.prototype.onAdd = function () {
             var div = document.createElement('div');
-            div.style.borderStyle = 'none';
-            div.style.borderWidth = '0px';
+            div.id = 'map-container';
             div.style.position = 'absolute';
-
-            var img = document.createElement('img');
-            img.src = this.image_;
-            img.style.width = '100%';
-            img.style.height = '100%';
-            img.style.position = 'absolute';
-            div.appendChild(img);
+            div.innerHTML = '{{ map|raw }}';
 
             this.div_ = div;
 
             var panes = this.getPanes();
-            panes.overlayMouseTarget.appendChild(div);
+            panes.floatPane.appendChild(div);
         };
 
         Overlay.prototype.draw = function () {
