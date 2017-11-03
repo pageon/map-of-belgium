@@ -1,0 +1,157 @@
+{% extends 'index.twig' %}
+
+{% block scripts %}
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key={{ apiKey }}"></script>
+    <script>
+        Overlay.prototype = new google.maps.OverlayView();
+
+        var overlay;
+        var srcImage = '/belgium.svg';
+        var boundariesOfBelgium = {
+            'ne': {
+                'lat': 51.505,
+                'lng': 6.275
+            },
+            'sw': {
+                'lat': 49.54,
+                'lng': 2.6
+            }
+        };
+
+        var neBound = new google.maps.LatLng(boundariesOfBelgium.ne.lat, boundariesOfBelgium.ne.lng);
+        var swBound = new google.maps.LatLng(boundariesOfBelgium.sw.lat, boundariesOfBelgium.sw.lng);
+        var bounds = new google.maps.LatLngBounds(swBound, neBound);
+        var center = new google.maps.LatLng(50.5, 4.5);
+        var mapOptions = {
+            zoom: 8,
+            center: center,
+            mapTypeId: google.maps.MapTypeId.hybrid,
+            backgroundColor: '#FFF',
+            disableDefaultUI: true,
+            draggable: true,
+            scaleControl: true,
+            scrollwheel: true,
+
+            styles: [
+                {
+                    "featureType": "all",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                },
+                {
+                    "featureType": "water",
+                    "elementType": "geometry",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                },
+                {
+                    "featureType": "landscape",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                },
+                {
+                    "featureType": "road",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                },
+                {
+                    "featureType": "administrative",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                },
+                {
+                    "featureType": "poi",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                },
+                {
+                    "featureType": "administrative",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                },
+                {
+                    "elementType": "labels",
+                    "stylers": [
+                        { "visibility": "off" }
+                    ]
+                }
+            ]
+        };
+
+        function initialize() {
+            var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+            function addMarker(lat, lng) {
+                new google.maps.Marker({
+                    map: map,
+                    position: {'lat': lat, 'lng': lng}
+                });
+            }
+
+            addMarker(51.368397, 3.366143);
+            addMarker(49.508816, 5.610255);
+            addMarker(boundariesOfBelgium.ne.lat, boundariesOfBelgium.ne.lng);
+            addMarker(boundariesOfBelgium.sw.lat, boundariesOfBelgium.sw.lng);
+
+            overlay = new Overlay(bounds, srcImage, map);
+        }
+
+        function Overlay(bounds, image, map) {
+            this.bounds_ = bounds;
+            this.image_ = image;
+            this.map_ = map;
+            this.div_ = null;
+
+            this.setMap(map);
+        }
+
+        Overlay.prototype.onAdd = function() {
+            var div = document.createElement('div');
+            div.style.borderStyle = 'none';
+            div.style.borderWidth = '0px';
+            div.style.position = 'absolute';
+
+            var img = document.createElement('img');
+            img.src = this.image_;
+            img.style.width = '100%';
+            img.style.height = '100%';
+            img.style.position = 'absolute';
+            div.appendChild(img);
+
+            this.div_ = div;
+
+            var panes = this.getPanes();
+            panes.overlayShadow.appendChild(div);
+        };
+
+        Overlay.prototype.draw = function() {
+            var overlayProjection = this.getProjection();
+            var sw = overlayProjection.fromLatLngToDivPixel(this.bounds_.getSouthWest());
+            var ne = overlayProjection.fromLatLngToDivPixel(this.bounds_.getNorthEast());
+            var div = this.div_;
+
+            div.style.left = sw.x + 'px';
+            div.style.top = ne.y + 'px';
+            div.style.width = (ne.x - sw.x) + 'px';
+            div.style.height = (sw.y - ne.y) + 'px';
+        };
+
+        Overlay.prototype.onRemove = function() {
+            this.div_.parentNode.removeChild(this.div_);
+            this.div_ = null;
+        };
+
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+{% endblock %}
+
+{% block content %}
+    <div id="map-canvas"></div>
+{% endblock %}

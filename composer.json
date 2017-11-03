@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "twig/twig": "^2.4",
+        "larapack/dd": "^1.1"
+    }
+}
