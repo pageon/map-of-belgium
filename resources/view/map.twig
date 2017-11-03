@@ -7,7 +7,7 @@
         Overlay.prototype = new google.maps.OverlayView();
 
         var churches = {{ churches|raw }};
-        var debugMap = false;
+        var debugMap = true;
         var overlay;
         var srcImage = '/belgium.svg';
         var boundariesOfBelgium = {
@@ -25,8 +25,10 @@
         var swBound = new google.maps.LatLng(boundariesOfBelgium.sw.lat, boundariesOfBelgium.sw.lng);
         var bounds = new google.maps.LatLngBounds(swBound, neBound);
         var center = new google.maps.LatLng(50.5, 4.5);
+        var zoom = 9;
+
         var mapOptions = {
-            zoom: 8,
+            zoom: zoom,
             center: center,
             mapTypeId: google.maps.MapTypeId.hybrid,
             backgroundColor: '#FFF',
@@ -46,23 +48,17 @@
                     "featureType": "water",
                     "elementType": "geometry",
                     "stylers": [
-                        {"visibility": "off"}
+                        {"visibility": "on"}
                     ]
                 },
                 {
                     "featureType": "landscape",
                     "stylers": [
-                        {"visibility": "off"}
+                        {"visibility": "on"}
                     ]
                 },
                 {
                     "featureType": "road",
-                    "stylers": [
-                        {"visibility": "off"}
-                    ]
-                },
-                {
-                    "featureType": "administrative",
                     "stylers": [
                         {"visibility": "on"}
                     ]
@@ -82,7 +78,7 @@
                 {
                     "elementType": "labels",
                     "stylers": [
-                        {"visibility": "off"}
+                        {"visibility": "on"}
                     ]
                 }
             ]
@@ -114,8 +110,10 @@
                 addMarker(church.lat, church.lng);
             }
 
-            new MarkerClusterer(map, markers,
-                {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+            new MarkerClusterer(map, markers, {
+                imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m',
+                minimumClusterSize: 2
+            });
 
             overlay = new Overlay(bounds, srcImage, map);
         }
@@ -145,7 +143,7 @@
             this.div_ = div;
 
             var panes = this.getPanes();
-            panes.overlayShadow.appendChild(div);
+            panes.overlayMouseTarget.appendChild(div);
         };
 
         Overlay.prototype.draw = function () {
