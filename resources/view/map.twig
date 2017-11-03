@@ -2,6 +2,7 @@
 
 {% block scripts %}
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key={{ apiKey }}"></script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script>
         Overlay.prototype = new google.maps.OverlayView();
 
@@ -25,7 +26,7 @@
         var bounds = new google.maps.LatLngBounds(swBound, neBound);
         var center = new google.maps.LatLng(50.5, 4.5);
         var mapOptions = {
-            zoom: 9,
+            zoom: 8,
             center: center,
             mapTypeId: google.maps.MapTypeId.hybrid,
             backgroundColor: '#FFF',
@@ -38,50 +39,50 @@
                 {
                     "featureType": "all",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "off"}
                     ]
                 },
                 {
                     "featureType": "water",
                     "elementType": "geometry",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "off"}
                     ]
                 },
                 {
                     "featureType": "landscape",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "off"}
                     ]
                 },
                 {
                     "featureType": "road",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "off"}
                     ]
                 },
                 {
                     "featureType": "administrative",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "on"}
                     ]
                 },
                 {
                     "featureType": "poi",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "off"}
                     ]
                 },
                 {
                     "featureType": "administrative",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "off"}
                     ]
                 },
                 {
                     "elementType": "labels",
                     "stylers": [
-                        { "visibility": "off" }
+                        {"visibility": "off"}
                     ]
                 }
             ]
@@ -89,12 +90,13 @@
 
         function initialize() {
             var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+            var markers = [];
 
             function addMarker(lat, lng) {
-                new google.maps.Marker({
+                markers.push(new google.maps.Marker({
                     map: map,
                     position: {'lat': lat, 'lng': lng}
-                });
+                }));
             }
 
             if (debugMap) {
@@ -112,6 +114,9 @@
                 addMarker(church.lat, church.lng);
             }
 
+            new MarkerClusterer(map, markers,
+                {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+
             overlay = new Overlay(bounds, srcImage, map);
         }
 
@@ -124,7 +129,7 @@
             this.setMap(map);
         }
 
-        Overlay.prototype.onAdd = function() {
+        Overlay.prototype.onAdd = function () {
             var div = document.createElement('div');
             div.style.borderStyle = 'none';
             div.style.borderWidth = '0px';
@@ -143,7 +148,7 @@
             panes.overlayShadow.appendChild(div);
         };
 
-        Overlay.prototype.draw = function() {
+        Overlay.prototype.draw = function () {
             var overlayProjection = this.getProjection();
             var sw = overlayProjection.fromLatLngToDivPixel(this.bounds_.getSouthWest());
             var ne = overlayProjection.fromLatLngToDivPixel(this.bounds_.getNorthEast());
@@ -155,7 +160,7 @@
             div.style.height = (sw.y - ne.y) + 'px';
         };
 
-        Overlay.prototype.onRemove = function() {
+        Overlay.prototype.onRemove = function () {
             this.div_.parentNode.removeChild(this.div_);
             this.div_ = null;
         };
