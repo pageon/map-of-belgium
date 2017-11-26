@@ -4,10 +4,8 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key={{ apiKey }}"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script>
-        Overlay.prototype = new google.maps.OverlayView();
-
         var churches = {{ churches|raw }};
-        var debugMap = true;
+        var debugMap = false;
         var overlay;
         var srcImage = '/belgium.svg';
         var boundariesOfBelgium = {
@@ -115,12 +113,15 @@
                 minimumClusterSize: 2
             });
 
-            overlay = new Overlay(bounds, srcImage, map);
+            overlay = new Overlay(bounds, '{{ map|raw }}', map);
+            new Overlay(bounds, '{{ mapOutline|raw }}', map);
         }
 
-        function Overlay(bounds, image, map) {
+        Overlay.prototype = new google.maps.OverlayView();
+
+        function Overlay(bounds, src, map) {
             this.bounds_ = bounds;
-            this.image_ = image;
+            this.src_ = src;
             this.map_ = map;
             this.div_ = null;
 
@@ -131,12 +132,12 @@
             var div = document.createElement('div');
             div.id = 'map-container';
             div.style.position = 'absolute';
-            div.innerHTML = '{{ map|raw }}';
+            div.innerHTML = this.src_;
 
             this.div_ = div;
 
             var panes = this.getPanes();
-            panes.floatPane.appendChild(div);
+            panes.overlayLayer.appendChild(div);
         };
 
         Overlay.prototype.draw = function () {

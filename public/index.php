@@ -13,4 +13,5 @@ die($twig->render('map.twig', [
     'apiKey' => getenv('GOOGLE_API_KEY'),
     'churches' => $churches,
     'map' => str_replace("\n", '', file_get_contents(__DIR__ .'/../resources/data/belgium.svg')),
+    'mapOutline' => str_replace("\n", '', file_get_contents(__DIR__ .'/../resources/data/outline.svg')),
 ]));
